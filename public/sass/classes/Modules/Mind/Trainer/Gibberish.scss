@@ -1,0 +1,30 @@
+/** Gibberish Game */
+.gm-plate {
+    float: left;
+    position: relative;
+    text-align: center;
+    width: 35px;
+    height: 35px;
+    border: 1px solid rgba(154, 192, 204, 0.5);
+    box-shadow: -1px -1px 0 white inset, 1px -1px 0 white inset, -1px 1px 0 white inset, 1px 1px 0 white inset;
+    cursor: pointer;
+}
+
+.gm-plate:hover {
+    background: silver;
+}
+
+.gm-plate-text {
+    display: block;
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    margin: auto;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.gm-plate-text:hover {
+    font-weight: 600;
+}

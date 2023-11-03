@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="creativity.by" default="main">
+    <target name="main" depends="clear, basic, version, styles">
+        <!-- Install beta.creativity.by for a final tests -->
+    </target>
+
+    <target name="test">
+        <!-- Run tests for beta.creativity.by -->
+        <exec command="./vendor/bin/phpunit --configuration ./tests/phpunit.xml" dir="./" />
+        <!-- phpunit configuration="./tests/phpunit.xml" / -->
+    </target>
+
+    <target name="truncate" depends="revert">
+        <delete includeemptydirs="true">
+            <fileset dir="./">
+                <include name="**/*.orig" />
+            </fileset>
+        </delete>
+    </target>
+
+    <target name="revert">
+        <exec command="hg revert --all" dir="./" />
+    </target>
+
+    <target name="clear">
+        <exec command="rm -R ./*" dir="./../creativity_test/" />
+        <!-- exec command="find -type f -delete" dir="./../creativity_test/" / -->
+    </target>
+
+    <target name="basic">
+        <copy todir="../creativity_test" overwrite="yes">
+            <fileset dir="./">
+                <exclude name=".hg/**" />
+                <exclude name="public/**" />
+                <exclude name="tests/**" />
+                <!-- exclude name="vendor/**" / -->
+                <!-- exclude name="config/**" / -->
+                <exclude name="documents/**" />
+                <!-- exclude name="application/Data/**" / -->
+                <!-- exclude name="application/Engine/Response/Mail/**" / -->
+                <exclude name="*.*" />
+            </fileset>
+            <!-- filterchain>
+                <stripphpcomments />
+                <striplinebreaks />
+            </filterchain -->
+        </copy>
+    </target>
+
+    <target name="version">
+        <exec command="hg summary > version.txt" dir="./" />
+        <copy todir="../creativity_test" overwrite="yes">
+            <fileset file="./version.txt" />
+        </copy>
+    </target>
+
+    <target name="styles">
+        <copy todir="../creativity_test/public" overwrite="yes">
+            <fileset dir="./public">
+                <exclude name=".hg/**" />
+                <exclude name="img/**" />
+                <exclude name="css/**" />
+                <exclude name="js/**" />
+                <exclude name="js.test/**" />
+                <exclude name="sass/**" />
+            </fileset>
+        </copy>
+    </target>
+</project>

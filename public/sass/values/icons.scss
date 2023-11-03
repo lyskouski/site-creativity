@@ -1,0 +1,70 @@
+/* Background configs */
+
+.im_lang {
+    display: block;
+    width: 16px;
+    height: 12px;
+    background-image: url('/img/css/im_lang.gif');
+}
+
+.im_center .im_lang {
+    float: left;
+    margin: 0 0 0 4px;
+}
+
+.im_left .im_lang {
+    float: left;
+    margin: 4px 4px 0;
+}
+
+.im_lang_be, .im_lang_be:hover {
+    background-position: 0 0;
+}
+
+.im_lang_ru, .im_lang_ru:hover {
+    background-position: -18px -14px;
+}
+
+.im_lang_uk, .im_lang_uk:hover {
+    background-position: -36px -28px;
+}
+
+.im_lang_en, .im_lang_en:hover {
+    background-position: -54px -42px;
+}
+
+.im_lang_fr, .im_lang_fr:hover {
+    background-position: -72px -56px;
+}
+
+.im_lang_de, .im_lang_de:hover {
+    background-position: -90px -70px;
+}
+
+.im_icon {
+    display: block;
+    width: 24px;
+    min-width: 24px;
+    height: 16px;
+    background-image: url('/img/css/im_icon.png');
+}
+
+.im_icon_views {
+    background-position: 4px 0;
+}
+
+.im_icon_rating {
+    background-position: -16px 0;
+}
+
+.im_icon_comment {
+    background-position: 4px -18px;
+}
+
+.im_icon_list {
+    background-position: -18px -18px;
+}
+
+.im_icon_search {
+    background-position: -36px 0;
+}

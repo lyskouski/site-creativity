@@ -1,0 +1,51 @@
+/**
+<div class="el_box el_box_write">
+    <div class="el_input">&nbsp;</div>
+    <input type="text" />
+    <div class="el_input">&nbsp;</div>
+</div>
+*/
+.el_box {
+    margin-top: 40px;
+    height: 24px;
+    display: inline-block;
+    -webkit-perspective: 150px;
+    perspective: 150px;
+    background: white;
+}
+
+.el_box .el_input + input {
+    border: 0;
+    height: 18px;
+    background: inherit;
+    box-shadow: 2px 0 0 white, -3px 0 0 white, 4px 0 0 #707070, -5px 0 0 #707070, 4px 0 0 2px white, -5px 0 0 2px white;
+}
+
+.el_box .el_input {
+    background: white;
+    height: 12px;
+    -webkit-transform: rotateX(66deg) translate(-2px,0);
+    transform: rotateX(66deg) translate(-2px,0);
+    margin: -2px 0 -5px;
+    box-shadow: inset 3px 4px 0 #707070, 3px 0 0 #707070, 6px -4px 0 1px white, -2px -3px 0 2px white;
+}
+
+.el_box input + .el_input {
+    -webkit-transform: rotateX(-66deg) translate(1px,0);
+    transform: rotateX(-66deg) translate(1px,0);
+    margin: -4px 0 0;
+    box-shadow: inset -3px -4px 0 #707070, -3px 0 0 #707070, 4px 6px 0 1px white, -5px 5px 0 2px white;
+}
+
+.el_box input:focus + .el_input {
+    background: yellow;
+}
+
+.el_box input:focus {
+    background: yellow;
+    background: -webkit-linear-gradient(white, #fdf7b3, yellow);
+    background: -o-linear-gradient(white, #fdf7b3, yellow);
+    background: -moz-linear-gradient(white, #fdf7b3, yellow);
+    background: linear-gradient(white, #fdf7b3, yellow);
+    box-shadow: 1px 0 0 yellow, -3px 0 0 yellow, 3px 0 0 #707070, -5px 0 0 #707070, 3px 0 0 2px white, -5px 0 0 2px white;
+}

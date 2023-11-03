@@ -1,0 +1,319 @@
+html, body, div, h1 {
+    padding:0;
+    margin: 0;
+    font-family: serif;
+    font-size: 17px;
+}
+h1 {
+    font-size: 32px;
+}
+html {
+    background: #f0f0ee;
+}
+body {
+    background: white;
+    padding-bottom: 18px;
+}
+#elephant {
+    position: absolute;
+    top: 0;
+    margin: -42px 0 0 -32px;
+    padding-left: 32px;
+    width: 150px;
+    height: 170px;
+    overflow: hidden;
+    -moz-transform: scale(0.6);
+    -ms-transform: scale(0.6);
+    -webkit-transform: scale(0.6);
+    -o-transform: scale(0.6);
+    transform: scale(0.6);
+}
+#elephant * {
+    background: silver;
+    position: relative;
+    float: left;
+}
+
+.e_body {
+    width: 110px;
+    height: 220px;
+    -moz-transform: perspective( 600px ) rotateX(-70deg);
+    -ms-transform: perspective( 600px ) rotateX(-70deg);
+    -webkit-transform: perspective( 600px ) rotateX(-70deg);
+    -o-transform: perspective( 600px ) rotateX(-70deg);
+    transform: perspective( 600px ) rotateX(-70deg);
+    border-radius: 10px 50px 30px 30px;
+    box-shadow: inset 0 0 10px rgba(66,66,66,0.5), 2px 2px 0 #f0f0ee, -2px -2px 0 #f0f0ee;
+}
+.e_head {
+    width: 120px;
+    height: 100px;
+    margin: 10px 0 0 -116px;
+    -moz-transform: perspective( 600px ) rotateX(70deg) rotateY(10deg);
+    -ms-transform: perspective( 600px ) rotateX(70deg) rotateY(10deg);
+    -webkit-transform: perspective( 600px ) rotateX(70deg) rotateY(10deg);
+    -o-transform: perspective( 600px ) rotateX(70deg) rotateY(10deg);
+    transform: perspective( 600px ) rotateX(70deg) rotateY(10deg);
+    border-radius: 30px 30px 5px 5px;
+    box-shadow: inset 10px 3px 10px rgba(66,66,66,0.1), inset -10px 3px 10px rgba(66,66,66,0.1);
+}
+.e_ears {
+    width: 90px;
+    height: 90px;
+    margin: 24px -120px 0 10px;
+    -moz-transform: rotate(-25deg) skew(30deg,10deg);
+    -ms-transform: rotate(-25deg) skew(30deg,10deg);
+    -webkit-transform: rotate(-25deg) skew(30deg,10deg);
+    -o-transform: rotate(-25deg) skew(30deg,10deg);
+    transform: rotate(-25deg) skew(30deg,10deg);
+    border-radius: 10px;
+    box-shadow: inset 0 0 5px rgba(122,122,122,0.7), 8px 8px 0 #f0f0ee, -8px -8px 0 #f0f0ee;
+}
+.e_eye {
+    width: 30px;
+    height: 1px;
+    margin: 42px 0 0 6px;
+    -moz-transform: rotate(-62deg);
+    -ms-transform: rotate(-62deg);
+    -webkit-transform: rotate(-62deg);
+    -o-transform: rotate(-62deg);
+    transform: rotate(-62deg);
+    background-color: #3f4e53!important;
+    border: 1px solid #3f4e53;
+    box-shadow: 32px -16px 2px rgba(255,255,255,0.9), 30px -14px 3px rgba(66,66,66,0.7);
+}
+.e_eye + .e_eye {
+    margin-left: 42px;
+    -moz-transform: rotate(62deg);
+    -ms-transform: rotate(62deg);
+    -webkit-transform: rotate(62deg);
+    -o-transform: rotate(62deg);
+    transform: rotate(62deg);
+    box-shadow: -32px -16px 2px rgba(255,255,255,1), -30px -14px 3px rgba(66,66,66,0.5);
+}
+
+
+.e_head > .e_trunk {
+    animation: animtrunk 2s 30; 
+    -moz-animation: animtrunk 2s 30; 
+    -webkit-animation: animtrunk 2s 30; 
+    -o-animation: animtrunk 2s 30; 
+}
+
+.e_trunk {
+    position: absolute;
+    width: 80px;
+    height: 200px;
+    margin: -25px 0 0 -10px;
+    border-radius: 50px 50px 30px 30px;
+    -moz-transform: perspective( 600px ) rotateX(-70deg);
+    -ms-transform: perspective( 600px ) rotateX(-70deg);
+    -webkit-transform: perspective( 600px ) rotateX(-70deg);
+    -o-transform: perspective( 600px ) rotateX(-70deg);
+    transform: perspective( 600px ) rotateX(-70deg);
+    box-shadow: inset 1px 0 1px rgba(66,66,66,0.2),  inset -1px 0 1px rgba(66,66,66,0.2), inset 4px 0 10px rgba(255,255,255,0.2), inset -4px 0 10px rgba(122,122,122,0.1);
+}
+.e_trunk .e_trunk {
+    height: 500px;
+    margin: 120px 0 0 0;
+    -moz-transform: perspective( 600px ) rotateX(-5deg) rotateY(10deg) scale(0.99);
+    -ms-transform: perspective( 600px ) rotateX(-5deg) rotateY(10deg) scale(0.99);
+    -webkit-transform: perspective( 600px ) rotateX(-5deg) rotateY(10deg) scale(0.99);
+    -o-transform: perspective( 600px ) rotateX(-5deg) rotateY(10deg) scale(0.99);
+    transform: perspective( 600px ) rotateX(-5deg) rotateY(10deg) scale(0.99);
+}
+
+.e_trunk .e_bigger {
+    height: 500px;
+    margin: 250px 0 0 1px;
+    -moz-transform: perspective( 600px ) rotateX(5deg) rotateY(10deg) scale(1);
+    -ms-transform: perspective( 600px ) rotateX(5deg) rotateY(10deg) scale(1);
+    -webkit-transform: perspective( 600px ) rotateX(5deg) rotateY(10deg) scale(1);
+    -o-transform: perspective( 600px ) rotateX(5deg) rotateY(10deg) scale(1);
+    transform: perspective( 600px ) rotateX(5deg) rotateY(10deg) scale(1);
+}
+.e_trunk .e_bigger .e_last {
+    width: 65px;
+    height: 200px;
+    border-radius: 5px 5px 50px 50px;
+    margin: 300px 0 0 7px;
+    -moz-transform: perspective( 600px ) rotateX(30deg)  scale(1.4);
+    -ms-transform: perspective( 600px ) rotateX(30deg)  scale(1.4);
+    -webkit-transform: perspective( 600px ) rotateX(30deg)  scale(1.4);
+    -o-transform: perspective( 600px ) rotateX(30deg)  scale(1.4);
+    transform: perspective( 600px ) rotateX(30deg)  scale(1.4);
+}
+.e_shadow {
+    position: absolute;
+    height: 50px;
+    width: 40px;
+    border-radius: 70px;
+    margin: -32px 0 0 20px;
+    box-shadow: inset 0 5px 0 rgba(255,255,255,0.4), 0 -2px 0 rgba(66,66,66,0.2);
+}
+
+.e_mouth {
+    width: 20px;
+    height: 1px;
+    -moz-transform: rotate(-50deg);
+    -ms-transform: rotate(-50deg);
+    -webkit-transform: rotate(-50deg);
+    -o-transform: rotate(-50deg);
+    transform: rotate(-50deg);
+    margin: 40px 0 0 4px;
+    position: absolute;
+    box-shadow: -1px -2px 2px white;
+    background: rgba(66,66,66,0.8)!important;
+}
+.e_trunk + .e_mouth {
+    margin: 72px 0 0 -6px;
+    box-shadow: -4px 2px 2px white;
+}
+
+/* Animation Keyframes*/
+@keyframes animtrunk {
+    0% { transform: perspective( 600px ) rotateX(-70deg); }
+    50% { transform: perspective( 600px ) rotateX(-70deg) rotateY(5deg) skew(1deg); }
+    100% { transform: perspective( 600px ) rotateX(-70deg) rotateY(-5deg) skew(-1deg); }
+}
+@-moz-keyframes animtrunk {
+    0% { -moz-transform: perspective( 600px ) rotateX(-70deg); }
+    50% { -moz-transform: perspective( 600px ) rotateX(-70deg) rotateY(5deg) skew(1deg); }
+    A100% { -moz-transform: perspective( 600px ) rotateX(-70deg) rotateY(-5deg) skew(-1deg); }
+}
+@-webkit-keyframes animtrunk {
+    0% { -webkit-transform: perspective( 600px ) rotateX(-70deg); }
+    50% { -webkit-transform: perspective( 600px ) rotateX(-70deg) rotateY(5deg) skew(1deg); }
+    100% { -webkit-transform: perspective( 600px ) rotateX(-70deg) rotateY(-5deg) skew(-1deg); }
+}
+@-o-keyframes animtrunk {
+    0% { -o-transform: perspective( 600px ) rotateX(-70deg); }
+    50% { -o-transform: perspective( 600px ) rotateX(-70deg) rotateY(5deg) skew(1deg); }
+    100% { -o-transform: perspective( 600px ) rotateX(-70deg) rotateY(-5deg) skew(-1deg); }
+}
+
+#header {
+    height: 44px;
+    margin: 24px 0;
+    padding: 2px 0 0 120px;
+    background: #9ac0cc;
+    vertical-align: baseline;
+    color: #3f4e53;
+    text-shadow: 1px 1px 0 rgba(255,255,255,0.4); 
+    border-bottom: 1px dashed #3f4e53;
+    border-top: 1px dashed #3f4e53;
+    box-shadow: inset 0 1px 0 white, inset 0 -1px 0 white, inset 0 2px 0 #3f4e53, inset 0 -2px 0 #3f4e53, 0 1px 0 white, 0 -1px 0 white, 0 -24px 0 #f0f0ee;
+}
+
+#content {
+    margin: -24px 24px;
+    padding: 12px 24px 3px;
+    background: white;
+    box-shadow: 1px 1px 0 white, -1px 1px 0 white, inset -1px -1px 0 silver, inset 1px -1px 0 silver, -44px 0 0 #f0f0f0, 44px 0 0 #f0f0f0;
+    border-radius: 0 0 10px 10px;
+}
+
+#content small {
+    color: silver;
+}
+
+
+#copyright {
+    margin: 0 -21px;
+    padding: 2px 12px 5px;
+    border-radius: 0 0 10px 10px;
+    background: #d4c8a8;
+    color: #6a6351;
+    text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.4);
+    box-shadow: inset 0 0 1px #6a6a6a;
+}
+
+a {
+    color: #6a6351;
+}
+
+.el_footer_header + aside {
+    color: #656565;
+    padding: 0 0 4px 32px;
+}
+.el_footer aside {
+    float: right;
+    margin: 4px 0 4px 24px;
+}
+
+.el_footer_header a {
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.el_footer menu {
+    margin: 0 0 4px 2px;
+    padding: 3px 0 0;
+    font-size: 12px;
+}
+.el_footer aside a, .el_footer menu a {
+    border-radius: 3px;
+    box-shadow: 0 -1px 1px #b3b3b3 inset, -1px -1px 0 rgba(255,255,255,0.8), 1px 1px 0 rgba(255,255,255,0.8), 1px -1px 0 rgba(255,255,255,0.8), -1px 1px 0 rgba(255,255,255,0.8);
+    display: block;
+    margin: 0 0 4px;
+    padding: 4px 7px 5px;
+    text-align: center;
+    text-decoration: none;
+    background: rgba(255,255,255,0.2);
+}
+
+#copyright .el_footer aside a:hover {
+    background: #6a6351;
+    color: silver;
+    text-shadow: none;
+}
+
+#copyright p {
+    padding: 0 0 10px;
+    margin: 0;
+    font-size: 14px;
+}
+
+#copyright .el_footer menu a {
+    box-shadow: 0 1px 3px #cccccc inset, 0 1px 1px #b3b3b3 inset, -1px -1px 0 rgba(255,255,255,0.6), 1px 1px 0 rgba(255,255,255,0.6);
+    display: inline-block;
+    padding: 4px 7px 3px;
+    text-align: left;
+    color: white;
+    text-shadow: none;
+    background: #6a6351;
+    width: 120px;
+}
+
+#copyright .el_footer menu a span::before {
+    background: white none repeat scroll 0 0;
+    box-shadow: -1px -1px 0 #cccccc;
+    box-sizing: border-box;
+    color: rgba(255, 255, 255, 0);
+    content: "|";
+    display: block;
+    float: left;
+    height: 6px;
+    margin: 4px 0 0 -12px;
+    position: absolute;
+    text-shadow: none;
+    transform: rotateZ(-45deg);
+    width: 6px;
+    z-index: 1;
+}
+#copyright .el_footer menu a span {
+    background: white none repeat scroll 0 0;
+    border-radius: 0 3px 3px 0;
+    box-shadow: -1px 0 0 #b3b3b3 inset, -1px 0 0 #cccccc;
+    display: block;
+    float: right;
+    margin: -2px -7px -2px 0;
+    padding: 4px 6px 3px 9px;
+    text-align: right;
+    color: #6a6351;
+}
+
+hr {
+    border-color: white;
+}

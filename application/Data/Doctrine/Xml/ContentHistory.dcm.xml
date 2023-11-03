@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doctrine-mapping xmlns="http://doctrine-project.org/schemas/orm/doctrine-mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://doctrine-project.org/schemas/orm/doctrine-mapping http://doctrine-project.org/schemas/orm/doctrine-mapping.xsd">
+  <entity name="ContentHistory" table="content_history">
+    <indexes>
+      <index name="ch_pattern" columns="pattern"/>
+      <index name="ch_author_id" columns="author_id"/>
+      <index name="ch_auditor_id" columns="auditor_id"/>
+      <index name="ch_updated_at" columns="updated_at"/>
+      <index name="ch_id" columns="id"/>
+      <index name="ch_content_id" columns="content_id"/>
+      <index name="ch_search" columns="search"/>
+    </indexes>
+    <id name="uid" type="bigint" column="uid">
+      <generator strategy="IDENTITY"/>
+    </id>
+    <field name="id" type="bigint" column="id" nullable="false">
+      <options>
+        <option name="unsigned"/>
+        <option name="comment">Content Management System - actual data</option>
+      </options>
+    </field>
+    <field name="contentId" type="bigint" column="content_id" nullable="true">
+      <options>
+        <option name="unsigned"/>
+      </options>
+    </field>
+    <field name="pattern" type="string" column="pattern" length="255" nullable="true">
+      <options>
+        <option name="fixed">1</option>
+      </options>
+    </field>
+    <field name="language" type="string" column="language" length="2" nullable="true">
+      <options>
+        <option name="fixed">1</option>
+      </options>
+    </field>
+    <field name="type" type="string" column="type" length="32" nullable="true">
+      <options>
+        <option name="fixed">1</option>
+      </options>
+    </field>
+    <field name="access" type="string" column="access" length="3" nullable="true">
+      <options>
+        <option name="fixed">1</option>
+        <option name="default">525</option>
+      </options>
+    </field>
+    <field name="updatedAt" type="datetime" column="updated_at" nullable="true">
+      <options>
+        <option name="default">CURRENT_TIMESTAMP</option>
+      </options>
+    </field>
+    <field name="authorId" type="integer" column="author_id" nullable="true">
+      <options>
+        <option name="unsigned"/>
+      </options>
+    </field>
+    <field name="auditorId" type="integer" column="auditor_id" nullable="true">
+      <options>
+        <option name="unsigned"/>
+        <option name="comment">Content Management System - actual data</option>
+      </options>
+    </field>
+    <field name="content" type="text" column="content" length="65535" nullable="true">
+      <options>
+        <option name="fixed"/>
+      </options>
+    </field>
+    <field name="search" type="text" column="search" length="65535" nullable="true">
+      <options>
+        <option name="fixed"/>
+      </options>
+    </field>
+  </entity>
+</doctrine-mapping>

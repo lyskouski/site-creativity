@@ -1,0 +1,1458 @@
+msgid ""
+msgstr "Project-Id-Version: system\n"
+"POT-Creation-Date: 2015-06-12 10:38+0300\n"
+"PO-Revision-Date: 2015-06-12 10:41+0300\n"
+"Last-Translator: Viachaslau Lyskouski<support@creativity.by>\n"
+"Language-Team: support <support@creativity.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: en_GB\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+""
+
+msgid "EMAIL"
+msgstr "support@creativity.by"
+
+msgid "LB_ACCESS"
+msgstr "Access"
+
+msgid "LB_ACCESS_4AUTHOR"
+msgstr "For the author"
+
+msgid "LB_ACCESS_4GROUP"
+msgstr "For users"
+
+msgid "LB_ACCESS_4OTHERS"
+msgstr "For guests"
+
+msgid "LB_ACCESS_ACTION"
+msgstr "site address ⊶ action"
+
+msgid "LB_ACCESS_ACTION_LIST"
+msgstr "The list of available / denied addresses"
+
+msgid "LB_ACCESS_ADD_NEW"
+msgstr "Create a new user group"
+
+msgid "LB_ACCESS_ADMIN"
+msgstr "Administrator"
+
+msgid "LB_ACCESS_ADMIN_DESCRIPTION"
+msgstr "The constitutor of Creative portal «Terra Ad Caelum» with a maximum access level and privileges."
+
+msgid "LB_ACCESS_AUDITOR"
+msgstr "Auditor"
+
+msgid "LB_ACCESS_AUDITOR_DESCRIPTION"
+msgstr "Responsible for the quality of the material: check the translator's work, look at the user's publication before they will appear in the public access."
+
+msgid "LB_ACCESS_AUTHOR"
+msgstr "Author"
+
+msgid "LB_ACCESS_AUTHOR_DESCRIPTION"
+msgstr "Could publish their works on the website."
+
+msgid "LB_ACCESS_BLOCKED"
+msgstr "Rogue"
+
+msgid "LB_ACCESS_BLOCKED_DESCRIPTION"
+msgstr "The person who crossed the line of morality and respect for the rest of the user group. Has no rights for any action and cannot be reinstated."
+
+msgid "LB_ACCESS_ENTER_TOKEN"
+msgstr "Enter the verification code on the site"
+
+msgid "LB_ACCESS_MODER"
+msgstr "Moderator"
+
+msgid "LB_ACCESS_MODER_DESCRIPTION"
+msgstr "Check comments and forum topics on compliance with the rules of the portal."
+
+msgid "LB_ACCESS_NEW_DESIGNER"
+msgstr "Designer"
+
+msgid "LB_ACCESS_NEW_DESIGNER_DESCRIPTION"
+msgstr "Actively involved into support and development of a firm style of the portal."
+
+msgid "LB_ACCESS_NEW_EDITOR"
+msgstr "Chief editor"
+
+msgid "LB_ACCESS_NEW_EDITOR_DESCRIPTION"
+msgstr "Able to control the privileges of users on the website."
+
+msgid "LB_ACCESS_NEW_EXPERT"
+msgstr "Expert"
+
+msgid "LB_ACCESS_NEW_EXPERT_DESCRIPTION"
+msgstr "Participate in the development and establishment of the project."
+
+msgid "LB_ACCESS_NEW_MUSICIAN"
+msgstr "Musician"
+
+msgid "LB_ACCESS_NEW_MUSICIAN_DESCRIPTION"
+msgstr "The author with an elevated privileges for a musical publication."
+
+msgid "LB_ACCESS_NEW_PAINTER"
+msgstr "Painter"
+
+msgid "LB_ACCESS_NEW_PAINTER_DESCRIPTION"
+msgstr "The author with an elevated privileges for a design publication."
+
+msgid "LB_ACCESS_NEW_POET"
+msgstr "Poet"
+
+msgid "LB_ACCESS_NEW_POET_DESCRIPTION"
+msgstr "The author with an elevated privileges for a poetry publication."
+
+msgid "LB_ACCESS_NEW_PUBLICIST"
+msgstr "Publicist"
+
+msgid "LB_ACCESS_NEW_PUBLICIST_DESCRIPTION"
+msgstr "The author with an elevated privileges for an article publication."
+
+msgid "LB_ACCESS_NEW_WRITER"
+msgstr "Writer"
+
+msgid "LB_ACCESS_NEW_WRITER_DESCRIPTION"
+msgstr "The author with an elevated privileges for a prose publication."
+
+msgid "LB_ACCESS_OTHER"
+msgstr "Not authorized"
+
+msgid "LB_ACCESS_OTHER_DESCRIPTION"
+msgstr "Unauthorized user has a minimum set of rights to review a content of the site."
+
+msgid "LB_ACCESS_TASKS_AUDITOR"
+msgstr "Auditor's task"
+
+msgid "LB_ACCESS_TASKS_MODER"
+msgstr "Moderator's task"
+
+msgid "LB_ACCESS_TASKS_TRANSLATOR"
+msgstr "Translator's task"
+
+msgid "LB_ACCESS_TEXT_DESCRIPTION"
+msgstr "Privilege management for user groups: add new group, change inheritance, adjustment of access to the pages and actins upon them."
+
+msgid "LB_ACCESS_TRANSLATOR"
+msgstr "Translator"
+
+msgid "LB_ACCESS_TRANSLATOR_DESCRIPTION"
+msgstr "Participate in multi-lingual support."
+
+msgid "LB_ACCESS_USER"
+msgstr "User"
+
+msgid "LB_ACCESS_USER_DESCRIPTION"
+msgstr "Authorized user is able to read, comment, rate and participate in the portal's life through the forum."
+
+msgid "LB_ACTION_SAVE"
+msgstr "Saving status"
+
+msgid "LB_ACTION_SAVE_ATTENTION"
+msgstr "Saving... please do not leave the page until it'll be finished."
+
+msgid "LB_ACTION_SAVE_PROCESS"
+msgstr "Saving process"
+
+msgid "LB_ARTICLE_ADD_PAGE"
+msgstr "Add a new page"
+
+msgid "LB_ARTICLE_CHANGE_IMAGE"
+msgstr "Customize the topic image"
+
+msgid "LB_ARTICLE_CREATED"
+msgstr "Artwork created"
+
+msgid "LB_ARTICLE_DESCRIPTION"
+msgstr "Short description"
+
+msgid "LB_ARTICLE_KEYWORDS"
+msgstr "Keywords"
+
+msgid "LB_ARTICLE_SEARCH_CATEGORY"
+msgstr "Choose the category"
+
+msgid "LB_ARTICLE_TITLE"
+msgstr "Title"
+
+msgid "LB_AUTH_ACCEPT_DESCRIPTION"
+msgstr "By continuing, you confirm to observe the terms, rules and codes of conduct on the site creativity.by (including our Related rights to your posted materials)."
+
+msgid "LB_AUTH_BY_MAIL"
+msgstr "Authorization via email"
+
+msgid "LB_AUTH_ENTER"
+msgstr "Authorization"
+
+msgid "LB_AUTH_EXIST"
+msgstr "The profile was already connected to your account"
+
+msgid "LB_AUTH_FACEBOOK"
+msgstr "Facebook"
+
+msgid "LB_AUTH_FACEBOOK_DESCRIPTION"
+msgstr "Simplified authorization via Facebook (with the possibility to activate notifications)"
+
+msgid "LB_AUTH_FINAL_STAGE"
+msgstr "The final stage of registration"
+
+msgid "LB_AUTH_FINAL_STAGE_DESCRIPTION"
+msgstr "Enter your username (it will be displayed instead of the authorization data for others). Then you will be able to connect other authorization methods (profiles) and use them for a notification service or simplified connectivity."
+
+msgid "LB_AUTH_GOOGLE"
+msgstr "Google +"
+
+msgid "LB_AUTH_GOOGLE_DESCRIPTION"
+msgstr "Simplified authorization via Google+"
+
+msgid "LB_AUTH_ICQ"
+msgstr "ICQ"
+
+msgid "LB_AUTH_ICQ_DESCRIPTION"
+msgstr "Activation ICQ for a notification system"
+
+msgid "LB_AUTH_LINKEDIN"
+msgstr "LinkedIn"
+
+msgid "LB_AUTH_LINKEDIN_DESCRIPTION"
+msgstr "Simplified authorization via LinkedIn"
+
+msgid "LB_AUTH_MAIL"
+msgstr "Email"
+
+msgid "LB_AUTH_MAIL_DESCRIPTION"
+msgstr "The desired profile for an activation of Writer, Artist, Poet and other privileges."
+
+msgid "LB_AUTH_PASSWORD"
+msgstr "Password"
+
+msgid "LB_AUTH_PERSONA"
+msgstr "Persona"
+
+msgid "LB_AUTH_PERSONA_DESCRIPTION"
+msgstr "Simplified authorization via Persona.org (Mozilla)"
+
+msgid "LB_AUTH_PHONE_NUMBER"
+msgstr "Phone number"
+
+msgid "LB_AUTH_REGISTRY"
+msgstr "Registration"
+
+msgid "LB_AUTH_RESTORE_PASSWORD"
+msgstr "Forgot your password?"
+
+msgid "LB_AUTH_TELEGRAM"
+msgstr "Telegram"
+
+msgid "LB_AUTH_TELEGRAM_DESCRIPTION"
+msgstr "Activation Telegram for a notification system"
+
+msgid "LB_AUTH_TOKEN"
+msgstr "The code from a sent email"
+
+msgid "LB_AUTH_TWITTER"
+msgstr "Twitter"
+
+msgid "LB_AUTH_TWITTER_DESCRIPTION"
+msgstr "Simplified authorization via (with the possibility to activate notifications)"
+
+msgid "LB_AUTH_USERNAME"
+msgstr "Username"
+
+msgid "LB_AUTH_VIBER"
+msgstr "Viber"
+
+msgid "LB_AUTH_VIBER_DESCRIPTION"
+msgstr "Activation Viber for a notification system"
+
+msgid "LB_AUTH_VK"
+msgstr "Vkontakte"
+
+msgid "LB_AUTH_VK_DESCRIPTION"
+msgstr "Simplified authorization via vk.com (with the possibility to activate notifications)"
+
+msgid "LB_AUTH_WHATSUP"
+msgstr "WhatsUp"
+
+msgid "LB_AUTH_WHATSUP_DESCRIPTION"
+msgstr "Activation WhatsUp for a notification system"
+
+msgid "LB_AUTO_PERSONAL_DESC"
+msgstr "Personal page of <q>%s</q> on the creative portal <q>Terra Ad Caelum</q>."
+
+msgid "LB_AUTO_PERSONAL_KEYS"
+msgstr "%s, user, creative portal"
+
+msgid "LB_AUTO_PERSONAL_TITLE"
+msgstr "Personal page"
+
+msgid "LB_AUTO_SEARCH_DESC"
+msgstr "Search by keyword `%s` among the published material."
+
+msgid "LB_AUTO_SEARCH_KEYS"
+msgstr "%s, search, creative portal"
+
+msgid "LB_AUTO_SEARCH_TITLE"
+msgstr "Search by keyword `%s`"
+
+msgid "LB_BUTTON_ACCEPT"
+msgstr "Accept"
+
+msgid "LB_BUTTON_ACCESS"
+msgstr "Allow"
+
+msgid "LB_BUTTON_ADD"
+msgstr "Add"
+
+msgid "LB_BUTTON_APPLY"
+msgstr "Apply"
+
+msgid "LB_BUTTON_APPROVE"
+msgstr "Approve"
+
+msgid "LB_BUTTON_CANCEL"
+msgstr "Cancel"
+
+msgid "LB_BUTTON_CHECK_UPDATES"
+msgstr "Check for updates"
+
+msgid "LB_BUTTON_CLEAR_UPDATES"
+msgstr "Сlear local changes"
+
+msgid "LB_BUTTON_CONTINUE"
+msgstr "Continue"
+
+msgid "LB_BUTTON_CREATE"
+msgstr "Сreate"
+
+msgid "LB_BUTTON_DECLINE"
+msgstr "Decline"
+
+msgid "LB_BUTTON_DELETE"
+msgstr "Delete"
+
+msgid "LB_BUTTON_DENY"
+msgstr "Deny"
+
+msgid "LB_BUTTON_EDIT"
+msgstr "Edit"
+
+msgid "LB_BUTTON_MODIFY"
+msgstr "Modify"
+
+msgid "LB_BUTTON_MOVE"
+msgstr "Move"
+
+msgid "LB_BUTTON_PUBLICATE"
+msgstr "Publish"
+
+msgid "LB_BUTTON_REJECT"
+msgstr "Reject"
+
+msgid "LB_BUTTON_RESTART"
+msgstr "Restart"
+
+msgid "LB_BUTTON_SAVE"
+msgstr "Save"
+
+msgid "LB_BUTTON_SEARCH"
+msgstr "Search"
+
+msgid "LB_BUTTON_SUBMIT"
+msgstr "Submit"
+
+msgid "LB_CATEGORY_ACRO"
+msgstr "Acro- or tele-stic"
+
+msgid "LB_CATEGORY_ACTION"
+msgstr "Action"
+
+msgid "LB_CATEGORY_ACTIVATION_OF_CREATIVITY"
+msgstr "Activization of creativity"
+
+msgid "LB_CATEGORY_ALIDERIYA"
+msgstr "Alideriya"
+
+msgid "LB_CATEGORY_ALTERNATE_PROSE"
+msgstr "Alternative prose"
+
+msgid "LB_CATEGORY_ALTERNATIVE_POETRY"
+msgstr "Alternative poetry"
+
+msgid "LB_CATEGORY_ARBITRARY_MEMORY"
+msgstr "Arbitrary memory"
+
+msgid "LB_CATEGORY_ART_HISTORY"
+msgstr "Art history"
+
+msgid "LB_CATEGORY_AURAL_MEMORY"
+msgstr "Auditory memory"
+
+msgid "LB_CATEGORY_AVAILABILITY_OF_MEANS"
+msgstr "Availability of means"
+
+msgid "LB_CATEGORY_BELARUSIAN"
+msgstr "Belarusian language"
+
+msgid "LB_CATEGORY_BLANK_VERSE"
+msgstr "Blank verse"
+
+msgid "LB_CATEGORY_CHARADE"
+msgstr "Charade"
+
+msgid "LB_CATEGORY_CHEMISTRY"
+msgstr "Chemistry"
+
+msgid "LB_CATEGORY_COLLECTION_OF_POEMS"
+msgstr "Collection of poems"
+
+msgid "LB_CATEGORY_DETECTIVE"
+msgstr "Detective"
+
+msgid "LB_CATEGORY_DIRECT_MEMORY"
+msgstr "Direct memory"
+
+msgid "LB_CATEGORY_EMOTIONAL_MEMORY"
+msgstr "Emotional memory"
+
+msgid "LB_CATEGORY_ENGLISH"
+msgstr "English"
+
+msgid "LB_CATEGORY_EPISODIC_MEMORY"
+msgstr "Episodic memory"
+
+msgid "LB_CATEGORY_EXACT_SCIENCE"
+msgstr "Exact Sciences"
+
+msgid "LB_CATEGORY_EXTERNAL_MEMORY"
+msgstr "External memory"
+
+msgid "LB_CATEGORY_FANTASIE"
+msgstr "Fancy"
+
+msgid "LB_CATEGORY_FANTASY"
+msgstr "Fantasy"
+
+msgid "LB_CATEGORY_FIGURATIVE_MEMORY"
+msgstr "Figurative memory"
+
+msgid "LB_CATEGORY_FLAVORING_MEMORY"
+msgstr "Flavour memory"
+
+msgid "LB_CATEGORY_FREE_VERSE"
+msgstr "Free verse"
+
+msgid "LB_CATEGORY_GUITAR"
+msgstr "Guitar"
+
+msgid "LB_CATEGORY_HUMANITIES"
+msgstr "Humanities"
+
+msgid "LB_CATEGORY_INDIRECT_MEMORY"
+msgstr "Indirect memory"
+
+msgid "LB_CATEGORY_INTERNAL_MEMORY"
+msgstr "Internal memory"
+
+msgid "LB_CATEGORY_INVOLUNTARY_MEMORY"
+msgstr "Involuntary memory"
+
+msgid "LB_CATEGORY_IN_CONTENT"
+msgstr "In content"
+
+msgid "LB_CATEGORY_IN_PROSE"
+msgstr "In prose"
+
+msgid "LB_CATEGORY_ISHTWAR"
+msgstr "Ishtwar"
+
+msgid "LB_CATEGORY_KINESTHETIC_MEMORY"
+msgstr "Kinesthetic memory"
+
+msgid "LB_CATEGORY_KLANZ"
+msgstr "KlanZ"
+
+msgid "LB_CATEGORY_LEAGUE_OF_HEROES"
+msgstr "League Of Heroes"
+
+msgid "LB_CATEGORY_LINGUISTICS"
+msgstr "Linguistics"
+
+msgid "LB_CATEGORY_LOGICAL_MEMORY"
+msgstr "Logical memory"
+
+msgid "LB_CATEGORY_LONGTERM_MEMORY"
+msgstr "Long-term memory"
+
+msgid "LB_CATEGORY_LOST_WORLDS"
+msgstr "Lost worlds"
+
+msgid "LB_CATEGORY_MATHEMATICS"
+msgstr "Mathematics"
+
+msgid "LB_CATEGORY_MAZE"
+msgstr "Maze"
+
+msgid "LB_CATEGORY_MEMORY_ORGANIZATION"
+msgstr "Memory organization"
+
+msgid "LB_CATEGORY_METHODS"
+msgstr "Methods"
+
+msgid "LB_CATEGORY_MNEMONICS"
+msgstr "Mnemonics"
+
+msgid "LB_CATEGORY_MONORY"
+msgstr "Monorhyme"
+
+msgid "LB_CATEGORY_MOTOR_MEMORY"
+msgstr "Motor memory"
+
+msgid "LB_CATEGORY_MUSIC_EDUCATION"
+msgstr "Music education"
+
+msgid "LB_CATEGORY_MYSTIC"
+msgstr "Mystery"
+
+msgid "LB_CATEGORY_NOVEL"
+msgstr "Novel"
+
+msgid "LB_CATEGORY_OBJECTS"
+msgstr "Objects"
+
+msgid "LB_CATEGORY_OLFACTORY_MEMORY"
+msgstr "Olfactory memory"
+
+msgid "LB_CATEGORY_PARABLE"
+msgstr "Parable"
+
+msgid "LB_CATEGORY_PHYSICS"
+msgstr "Physics"
+
+msgid "LB_CATEGORY_POSTMODERNISM"
+msgstr "Postmodernism"
+
+msgid "LB_CATEGORY_PROCEDURAL_MEMORY"
+msgstr "Procedural memory"
+
+msgid "LB_CATEGORY_PROSE"
+msgstr "Prose"
+
+msgid "LB_CATEGORY_PSYCHEDELIC"
+msgstr "Psychedelic"
+
+msgid "LB_CATEGORY_REALISM"
+msgstr "Realism"
+
+msgid "LB_CATEGORY_SCIENCE_FICTION"
+msgstr "Science fiction"
+
+msgid "LB_CATEGORY_SEMANTIC_MEMORY"
+msgstr "Semantic memory"
+
+msgid "LB_CATEGORY_SEMIOLOGY"
+msgstr "Semiotics"
+
+msgid "LB_CATEGORY_SENSORY_MODALITY"
+msgstr "By sensory modality"
+
+msgid "LB_CATEGORY_SHORTTERM_MEMORY"
+msgstr "Short-term memory"
+
+msgid "LB_CATEGORY_SOCIAL_SCIENCIES"
+msgstr "Social sciencies"
+
+msgid "LB_CATEGORY_SONNET"
+msgstr "Sonnet"
+
+msgid "LB_CATEGORY_STORING_METHOD"
+msgstr "Method for storing"
+
+msgid "LB_CATEGORY_SURREALISM"
+msgstr "Surrealism"
+
+msgid "LB_CATEGORY_SYMBOLIC_MEMORY"
+msgstr "Symbolic memory"
+
+msgid "LB_CATEGORY_TACTILE_MEMORY"
+msgstr "Tactile memory"
+
+msgid "LB_CATEGORY_TARGET_DESIGNATION"
+msgstr "Presence of target"
+
+msgid "LB_CATEGORY_THE_EDGE_OF_REALITY"
+msgstr "Edges Of Reality"
+
+msgid "LB_CATEGORY_THRILLER"
+msgstr "Thriller"
+
+msgid "LB_CATEGORY_TIME_CHARACTERISTICS"
+msgstr "Time characteristics"
+
+msgid "LB_CATEGORY_ULTRASHORTTERM_MEMORY"
+msgstr "Ultra short-term memory"
+
+msgid "LB_CATEGORY_VERBAL_MEMORY"
+msgstr "Verbal memory"
+
+msgid "LB_CATEGORY_VERSE"
+msgstr "Verse"
+
+msgid "LB_CATEGORY_VERS_LIBRE"
+msgstr "Vers libre"
+
+msgid "LB_CATEGORY_VISUAL_MEMORY"
+msgstr "Visual memory"
+
+msgid "LB_CATEGORY_ОEUVRE"
+msgstr "Oeuvre"
+
+msgid "LB_CATEGORY_РOETRY"
+msgstr "Poetry"
+
+msgid "LB_COGNITION"
+msgstr "Cognition"
+
+msgid "LB_COMMENTS"
+msgstr "Comments"
+
+msgid "LB_COMMENT_CONTENT"
+msgstr "The content of the comment..."
+
+msgid "LB_COMMENT_MARK"
+msgstr "Rate"
+
+msgid "LB_COMMENT_MARK_NEGATIVE"
+msgstr "Negative"
+
+msgid "LB_COMMENT_MARK_POSITIVE"
+msgstr "Positive"
+
+msgid "LB_COMMENT_MARK_SKIP"
+msgstr "Don't rate"
+
+msgid "LB_COMMENT_MORE"
+msgstr "Show more comments"
+
+msgid "LB_CONFIG"
+msgstr "Settings"
+
+msgid "LB_CONTENT"
+msgstr "Contents"
+
+msgid "LB_CONTENT_FOR_APPROVEMENT"
+msgstr "Material for approval"
+
+msgid "LB_CONTENT_FOR_APPROVEMENT_DESC"
+msgstr "Check that the material was prepared at the appropriate level: without portal's rule violation, with a correct punctuation and grammar; the overall style was sustained."
+
+msgid "LB_CONTENT_FOR_DELETE"
+msgstr "Remove material (be careful)"
+
+msgid "LB_CONTENT_IS_MISSING"
+msgstr "By now, content is missing on this page. Please visit it later. Also, if you wish, you could help us with to fill it (refer to <q>the Forum / support</q> <q>proposition</q>)."
+
+msgid "LB_CONTENT_PATTERN"
+msgstr "Material address (pattern)"
+
+msgid "LB_CONTENT_SEARCH"
+msgstr "Search by keyword..."
+
+msgid "LB_CONTENT_WAS_PUBLISHED"
+msgstr "The content was published on the website"
+
+msgid "LB_CONTENT_WAS_REJECTED"
+msgstr "The content is rejected and sent back for revision"
+
+msgid "LB_COPYRIGHT"
+msgstr "Exclusive right"
+
+msgid "LB_COPYRIGHT_CONDITIONS"
+msgstr "Exclusive rights means that Creative portal <q>Terra Ad Caelum</q> has a legal entitlement to allow or prohibit site's material usages for any external publication (the absence of a direct ban is not an agreement). Allowed only partial citation with an active <q>white</q> link. Illegal usage could lead to a liability in accordance with the legislation of the country of the respondent."
+
+msgid "LB_DAY4_BEFORE"
+msgstr "days ago"
+
+msgid "LB_DAYS_BEFORE"
+msgstr "days ago"
+
+msgid "LB_DAY_BEFORE"
+msgstr "day ago"
+
+msgid "LB_DECOR"
+msgstr "decor"
+
+msgid "LB_DESCRIPTION"
+msgstr "Description"
+
+msgid "LB_DEV_PROPOSITION_TEXT"
+msgstr "Please, review other propositions before a new topic creation. Use the links below, there you can see a proposition summary (what was rejected, what is taken into account)."
+
+msgid "LB_ERROR"
+msgstr "Error"
+
+msgid "LB_ERROR_AUTH_LIMITATION"
+msgstr "Allowed number of attempts is exceeded (access is limited for a while)."
+
+msgid "LB_ERROR_DIFFERENT_PASSWORD"
+msgstr "Passwords do not match"
+
+msgid "LB_ERROR_DUPLICATED_VOTE"
+msgstr "You've already given your vote, further commenting is possible without it (<q>don't rate</q>)."
+
+msgid "LB_ERROR_EMAIL_EXIST"
+msgstr "Already exists, use the password recovery."
+
+msgid "LB_ERROR_INCORECT_EMAIL"
+msgstr "You've specified wrong email"
+
+msgid "LB_ERROR_INCORRECT_PASSWORD"
+msgstr "The incorrect credentials"
+
+msgid "LB_ERROR_INCORRECT_REQUEST"
+msgstr "Incorrect request"
+
+msgid "LB_ERROR_LEGTH_LIMITATION"
+msgstr "Exceeded limit of %d for the characters in text"
+
+msgid "LB_ERROR_MAIL_TO"
+msgstr "Error was taken during a message sending process"
+
+msgid "LB_ERROR_MISSING_DATA"
+msgstr "No data"
+
+msgid "LB_ERROR_MISSING_PASSWORD"
+msgstr "Password is missing"
+
+msgid "LB_ERROR_NOT_AUTHORIZED"
+msgstr "Authorization required"
+
+msgid "LB_ERROR_ONLY_TEXT"
+msgstr "Allowed only the text without any line breaks or tags"
+
+msgid "LB_ERROR_PERSON_NOT_TRANSLATED"
+msgstr "The user has not filled a personal page yet, but it can be shown for another language, check the list below (if it is present)."
+
+msgid "LB_ERROR_REQUIRED"
+msgstr "You cannot delete a mandatory block of information"
+
+msgid "LB_ERROR_SIMPLE_PASSWORD"
+msgstr "You should use a more complex password (upper and lower case, symbols, special charts)"
+
+msgid "LB_ERROR_TOKEN_MISMATCH"
+msgstr "The entered code does not coincide with the sent"
+
+msgid "LB_ERROR_USERNAME_EXISTS"
+msgstr "Such username is already in use"
+
+msgid "LB_ERROR_USERNAME_INVALID"
+msgstr "Allowed characters in a single locale (do not mix the languages) and an underscore symbol. Also the length cannot be less than 3 and not more than 24 characters."
+
+msgid "LB_ERROR_USER_MISSING"
+msgstr "Specified user was not found, assume, the account was blocked or deleted."
+
+msgid "LB_ERROR_USER_NOT_FOUND"
+msgstr "User was not found"
+
+msgid "LB_FORUM_BUGS"
+msgstr "Bugs"
+
+msgid "LB_FORUM_CONTENT"
+msgstr "Complete the theme content..."
+
+msgid "LB_FORUM_CONTEST"
+msgstr "Contests"
+
+msgid "LB_FORUM_CREATE"
+msgstr "Create"
+
+msgid "LB_FORUM_CREATE_TOPIC"
+msgstr "Start new topic"
+
+msgid "LB_FORUM_DESCRIPTION"
+msgstr "Topic description..."
+
+msgid "LB_FORUM_HISTORY"
+msgstr "changes"
+
+msgid "LB_FORUM_HISTORY_TITLE"
+msgstr "History of changes"
+
+msgid "LB_FORUM_KEYWORDS"
+msgstr "Keywords"
+
+msgid "LB_FORUM_LAST_COMMENT"
+msgstr "Last comment"
+
+msgid "LB_FORUM_NEWS"
+msgstr "News"
+
+msgid "LB_FORUM_OFFTOPIC"
+msgstr "General topics"
+
+msgid "LB_FORUM_PROPOSITION"
+msgstr "Proposition"
+
+msgid "LB_FORUM_QUESTIONS"
+msgstr "Questions"
+
+msgid "LB_FORUM_TITLE"
+msgstr "Topic title"
+
+msgid "LB_FORUM_TOPIC_MODIFIED_BY"
+msgstr "[SM] The description, keywords and access level have been checked (possibly, adjusted)."
+
+msgid "LB_FROM"
+msgstr "from"
+
+msgid "LB_GET_DETAILS"
+msgstr "Details"
+
+msgid "LB_HEADER_100"
+msgstr "Continue"
+
+msgid "LB_HEADER_101"
+msgstr "Switching Protocols"
+
+msgid "LB_HEADER_200"
+msgstr "OK"
+
+msgid "LB_HEADER_201"
+msgstr "Created"
+
+msgid "LB_HEADER_202"
+msgstr "Accepted"
+
+msgid "LB_HEADER_203"
+msgstr "Non-Authoritative Information"
+
+msgid "LB_HEADER_204"
+msgstr "No Content"
+
+msgid "LB_HEADER_205"
+msgstr "Reset Content"
+
+msgid "LB_HEADER_206"
+msgstr "Partial Content"
+
+msgid "LB_HEADER_300"
+msgstr "Multiple Choices"
+
+msgid "LB_HEADER_301"
+msgstr "Moved Permanently"
+
+msgid "LB_HEADER_302"
+msgstr "Moved Temporarily"
+
+msgid "LB_HEADER_303"
+msgstr "Found"
+
+msgid "LB_HEADER_304"
+msgstr "Not Modified"
+
+msgid "LB_HEADER_307"
+msgstr "Temporary Redirect"
+
+msgid "LB_HEADER_400"
+msgstr "Bad Request"
+
+msgid "LB_HEADER_401"
+msgstr "Unauthorized"
+
+msgid "LB_HEADER_402"
+msgstr "Payment Required"
+
+msgid "LB_HEADER_403"
+msgstr "Forbidden"
+
+msgid "LB_HEADER_404"
+msgstr "Not Found"
+
+msgid "LB_HEADER_405"
+msgstr "Method Not Allowed"
+
+msgid "LB_HEADER_406"
+msgstr "Not Acceptable"
+
+msgid "LB_HEADER_409"
+msgstr "Conflict"
+
+msgid "LB_HEADER_410"
+msgstr "Gone"
+
+msgid "LB_HEADER_417"
+msgstr "Expectation Failed"
+
+msgid "LB_HEADER_419"
+msgstr "Session exceeded"
+
+msgid "LB_HEADER_423"
+msgstr "Locked"
+
+msgid "LB_HEADER_429"
+msgstr "Too Many Requests"
+
+msgid "LB_HEADER_500"
+msgstr "Internal Server Error"
+
+msgid "LB_HEADER_503"
+msgstr "Service Unavailable"
+
+msgid "LB_HISTORY_CHANGES"
+msgstr "changes"
+
+msgid "LB_HOUR4_BEFORE"
+msgstr "hours ago"
+
+msgid "LB_HOURS_BEFORE"
+msgstr "hours ago"
+
+msgid "LB_HOUR_BEFORE"
+msgstr "hour ago"
+
+msgid "LB_IMAGE_SIZE"
+msgstr "Image size"
+
+msgid "LB_IMAGE_SIZE_SEP"
+msgstr "x"
+
+msgid "LB_INFO_TERMS"
+msgstr "regulations"
+
+msgid "LB_LANG_BE"
+msgstr "Belarusian language"
+
+msgid "LB_LANG_DE"
+msgstr "German language"
+
+msgid "LB_LANG_EN"
+msgstr "English"
+
+msgid "LB_LANG_FR"
+msgstr "French"
+
+msgid "LB_LANG_RU"
+msgstr "Russian language"
+
+msgid "LB_LANG_UA"
+msgstr "Ukrainian language"
+
+msgid "LB_LATEX_AUTHOR"
+msgstr "Create a reference to the author"
+
+msgid "LB_LATEX_CENTER"
+msgstr "Centring the text"
+
+msgid "LB_LATEX_MATH"
+msgstr "A mathematical preprocessor activation for rendering formula with any complexity."
+
+msgid "LB_LATEX_PAGEREF"
+msgstr "Create a titled link from the requested URL"
+
+msgid "LB_LATEX_TABLE"
+msgstr "The table creation command"
+
+msgid "LB_LATEX_TEXTBF"
+msgstr "Bold"
+
+msgid "LB_LATEX_TEXTIT"
+msgstr "Italic"
+
+msgid "LB_LOGIN"
+msgstr "Login"
+
+msgid "LB_LOGOUT"
+msgstr "Logout"
+
+msgid "LB_MAIL_FOLLOW_LINK"
+msgstr "follow the link"
+
+msgid "LB_MAIL_HELLO"
+msgstr "Hello,"
+
+msgid "LB_MAIL_IGNORE"
+msgstr "Please ignore this email if it was received by a mistake. If you have any questions, don't hesitate to ask us."
+
+msgid "LB_MAIL_REGARDS"
+msgstr "Best regards,Creative portal <q>Terra Ad Caelum</q>"
+
+msgid "LB_MAIL_REGISTRY"
+msgstr "Registry on the <q>Terra Ad Caelum</q> creative portal"
+
+msgid "LB_MAIL_REQUEST"
+msgstr "The request was done"
+
+msgid "LB_MAIL_RESTORE"
+msgstr "Restore access on the Creative portal <q>Terra Ad Caelum</q>"
+
+msgid "LB_MAIL_RESTORE_CONTENT"
+msgstr "To restore access, please, type the verification code from email. Also note that received code has a limited time of validity."
+
+msgid "LB_MAIL_SUPPORT"
+msgstr "Support"
+
+msgid "LB_MIND"
+msgstr "Mind"
+
+msgid "LB_MIND_PRAXIS"
+msgstr "Neuroplasticity"
+
+msgid "LB_MIND_TECHNIQUE"
+msgstr "Mnemonics"
+
+msgid "LB_MISSING"
+msgstr "missing"
+
+msgid "LB_MONTH4_BEFORE"
+msgstr "months ago"
+
+msgid "LB_MONTHS_BEFORE"
+msgstr "months ago"
+
+msgid "LB_MONTH_BEFORE"
+msgstr "month ago"
+
+msgid "LB_NO"
+msgstr "no"
+
+msgid "LB_OEUVRE"
+msgstr "Oeuvre"
+
+msgid "LB_OEUVRE_ARTICLE"
+msgstr "Article"
+
+msgid "LB_OEUVRE_ARTICLE_DESC"
+msgstr "To publish articles and overviews"
+
+msgid "LB_OEUVRE_DRAWING"
+msgstr "Drawing"
+
+msgid "LB_OEUVRE_DRAWING_DESC"
+msgstr "To publish graphic works (with edit option)"
+
+msgid "LB_OEUVRE_MUSIC"
+msgstr "Music"
+
+msgid "LB_OEUVRE_MUSIC_DESC"
+msgstr "Service to create a note or chord publication"
+
+msgid "LB_OEUVRE_POETRY"
+msgstr "Poetry"
+
+msgid "LB_OEUVRE_POETRY_DESC"
+msgstr "Poetic service for the publication of poems"
+
+msgid "LB_OEUVRE_PROSE"
+msgstr "Prose"
+
+msgid "LB_OEUVRE_PROSE_DESC"
+msgstr "To publish prosaic works (virtually unlimited size)"
+
+msgid "LB_ORDER_DATE"
+msgstr "by date"
+
+msgid "LB_ORDER_RATING"
+msgstr "by rating"
+
+msgid "LB_ORDER_VIEWS"
+msgstr "by views"
+
+msgid "LB_ORIGINAL_PAGE"
+msgstr "Publication' translation"
+
+msgid "LB_PAGE"
+msgstr "p."
+
+msgid "LB_PAGE_CONTENT"
+msgstr "Page content"
+
+msgid "LB_PAGE_COUNT"
+msgstr "out of"
+
+msgid "LB_PAGE_DESCRIPTION"
+msgstr "Description is missing..."
+
+msgid "LB_PAGE_INFINITE_SCROLL"
+msgstr "The infinite scroll functionality and option for an asynchronous loading is active on the page for better readability. The automatic addition of content is activated by scrolling through the page."
+
+msgid "LB_PAGE_IS_MISSING"
+msgstr "The page has been deleted. Seems, the number of pages has been reduced after the last update."
+
+msgid "LB_PAGE_LAST"
+msgstr "last"
+
+msgid "LB_PAGE_NEXT"
+msgstr "Next page"
+
+msgid "LB_PAGE_OVERVIEW_LANGUAGES"
+msgstr "Other representations"
+
+msgid "LB_PAGE_PREVIOUS"
+msgstr "Previous"
+
+msgid "LB_PERSONAL"
+msgstr "Personal Area"
+
+msgid "LB_PERSON_ACCOUNTS"
+msgstr "Accounts"
+
+msgid "LB_PERSON_ACCOUNTS_INFO"
+msgstr "Social profiles allows to facilitate the authorization and also to configure notifications for any valuable events."
+
+msgid "LB_PERSON_ACCOUNTS_LIST"
+msgstr "The list of connected accounts"
+
+msgid "LB_PERSON_ADD_BLOCK"
+msgstr "Add a new information block"
+
+msgid "LB_PERSON_DESCRIPTION"
+msgstr "Description"
+
+msgid "LB_PERSON_DRAFT"
+msgstr "Drafts"
+
+msgid "LB_PERSON_GRID_SECTION"
+msgstr "The block for a content separation to strips"
+
+msgid "LB_PERSON_IMAGE"
+msgstr "Image"
+
+msgid "LB_PERSON_KEYWORDS"
+msgstr "Keywords"
+
+msgid "LB_PERSON_MODULE_SECTION"
+msgstr "Informational statistics modules"
+
+msgid "LB_PERSON_NAME"
+msgstr "Bio"
+
+msgid "LB_PERSON_PAGE"
+msgstr "Personal user page"
+
+msgid "LB_PERSON_PAGE_EDIT_MODE"
+msgstr "Personal data (edit mode)"
+
+msgid "LB_PERSON_POSITION"
+msgstr "The element position (you can move here a block)"
+
+msgid "LB_PERSON_PUBLICATIONS"
+msgstr "Publication"
+
+msgid "LB_PERSON_SELECT_BLOCK"
+msgstr "Specify the unit that has to be added on the page"
+
+msgid "LB_PERSON_SELECT_IMAGE"
+msgstr "Chose an avatar"
+
+msgid "LB_PERSON_STATISTICS"
+msgstr "Statistics"
+
+msgid "LB_PERSON_SUBMIT_PUBLIC"
+msgstr "Awaiting for a publication into the general access"
+
+msgid "LB_PERSON_SUBMIT_REJECTED"
+msgstr "The publication has been rejected due"
+
+msgid "LB_PERSON_TEXT"
+msgstr "Text block"
+
+msgid "LB_PERSON_TITLE"
+msgstr "Page title"
+
+msgid "LB_PERSON_TO_VIEW"
+msgstr "Overview"
+
+msgid "LB_PERSON_WAIT_AUDIT"
+msgstr "Your changes on the personal page will be checked by an auditor in the offing."
+
+msgid "LB_PERSON_WORK"
+msgstr "List of publications"
+
+msgid "LB_PERSON_WORK_NEW"
+msgstr "Create new"
+
+msgid "LB_PUBLICATION_WAIT_AUDIT"
+msgstr "Your publication will be checked by an Auditor in the nearest time."
+
+msgid "LB_RATING"
+msgstr "Rating"
+
+msgid "LB_REDIRECT_TO"
+msgstr "Redirect"
+
+msgid "LB_REPLY_DELETED"
+msgstr "Comment from %s has been removed by the moderation %s %s."
+
+msgid "LB_RETURN"
+msgstr "Return"
+
+msgid "LB_ROLLOUT_BACK"
+msgstr "Rollback the changes"
+
+msgid "LB_ROLLOUT_DEPRECATED_TESTS"
+msgstr "The tests hasn't been restarted for the latest update"
+
+msgid "LB_ROLLOUT_FAILED_TESTS"
+msgstr "Further release is postponed before the test's result will be fixed."
+
+msgid "LB_ROLLOUT_TO"
+msgstr "Rollout the changes"
+
+msgid "LB_SAMPLE_TEXT"
+msgstr "Sample text"
+
+msgid "LB_SECOND4_BEFORE"
+msgstr "seconds ago"
+
+msgid "LB_SECONDS_BEFORE"
+msgstr "seconds ago"
+
+msgid "LB_SECOND_BEFORE"
+msgstr "a moment ago"
+
+msgid "LB_SET_MARK"
+msgstr "Rate"
+
+msgid "LB_SITE_ABOUT"
+msgstr "About us"
+
+msgid "LB_SITE_ACCESS"
+msgstr "Group privileges"
+
+msgid "LB_SITE_BACK"
+msgstr "Back"
+
+msgid "LB_SITE_DECOR"
+msgstr "Text preprocessor"
+
+msgid "LB_SITE_DECOR_FORUM"
+msgstr "Forum posts decor"
+
+msgid "LB_SITE_GROUP"
+msgstr "Privileges"
+
+msgid "LB_SITE_GROUP_DESCRIPTION"
+msgstr "Managing of a User privileges: add to group, remove from group, block user."
+
+msgid "LB_SITE_INFO"
+msgstr "General provisions"
+
+msgid "LB_SITE_INFO_AUTHORS"
+msgstr "Information for authors"
+
+msgid "LB_SITE_INFO_PARTNERS"
+msgstr "Information for partners"
+
+msgid "LB_SITE_PRIVACY_POLICY"
+msgstr "Privacy policy"
+
+msgid "LB_SITE_RETURN2MAIN"
+msgstr "Back to main"
+
+msgid "LB_SITE_ROLLOUT"
+msgstr "Release center"
+
+msgid "LB_SITE_ROLLOUT_NEW"
+msgstr "Create a new release"
+
+msgid "LB_SITE_SEARCH"
+msgstr "Search results"
+
+msgid "LB_SITE_SUPPORT"
+msgstr "Forum / Support service"
+
+msgid "LB_SITE_TASKS"
+msgstr "Tasks"
+
+msgid "LB_SITE_TERMS"
+msgstr "The terms of usage"
+
+msgid "LB_SITE_TITLE"
+msgstr "Creative portal «Terra Ad Caelum»"
+
+msgid "LB_SITE_UPDATES"
+msgstr "Latest updates"
+
+msgid "LB_SKIP_MODIFICATION"
+msgstr "Quiet correction (the date won't be updated, without extra comment)"
+
+msgid "LB_STYLE_ACCENT"
+msgstr "Update the accent"
+
+msgid "LB_STYLE_CLEAR"
+msgstr "Remove formats for the selected text"
+
+msgid "LB_STYLE_COVER"
+msgstr "Wrap"
+
+msgid "LB_STYLE_COV_CLEAR"
+msgstr "Clear"
+
+msgid "LB_STYLE_COV_TEXT"
+msgstr "Cover"
+
+msgid "LB_STYLE_CROSSED"
+msgstr "Cross out"
+
+msgid "LB_STYLE_PAGE_MRG"
+msgstr "Merge content of pages (current and next)"
+
+msgid "LB_STYLE_PAGE_NEW"
+msgstr "Move selection to a new page"
+
+msgid "LB_STYLE_POSITION"
+msgstr "Position"
+
+msgid "LB_STYLE_POS_CENTER"
+msgstr "Center"
+
+msgid "LB_STYLE_POS_LEFT"
+msgstr "Left"
+
+msgid "LB_STYLE_POS_RIGHT"
+msgstr "Right"
+
+msgid "LB_STYLE_SOURCE"
+msgstr "&lang;/&rang;"
+
+msgid "LB_STYLE_SPECIAL"
+msgstr "Special symbols"
+
+msgid "LB_STYLE_SUB"
+msgstr "Text at the bottom index (sub)"
+
+msgid "LB_STYLE_SUP"
+msgstr "Text at the top index (sup)"
+
+msgid "LB_STYLE_UNDERLINE"
+msgstr "Underline"
+
+msgid "LB_TARGET"
+msgstr "Target interface:"
+
+msgid "LB_TASKS_TRANSLATION_MISSING"
+msgstr "Show only missing translations"
+
+msgid "LB_TASK_AUDITOR_RULES"
+msgstr "You are going to check a random content that was sent by others. Please, check it, investigate and mark errors (if exist); and make a decision about its publication or prohibition. Your decision is a guarantee of quality for a verifiable information. In the case of the careless attitude to your duties, Auditor status will be removed and all earned portal's money will be taken back as a penalty for the shattered trust."
+
+msgid "LB_TASK_IS_MISSING"
+msgstr "Required task is no longer available"
+
+msgid "LB_TASK_MODER_COMMENTS"
+msgstr "Comments on the forum"
+
+msgid "LB_TASK_MODER_COMMENTS_DESC"
+msgstr "Check the review forum"
+
+msgid "LB_TASK_MODER_REPLY"
+msgstr "Comments on the website"
+
+msgid "LB_TASK_MODER_REPLY_DESC"
+msgstr "Check the comments on the site"
+
+msgid "LB_TASK_MODER_TOPICS"
+msgstr "Forum topics"
+
+msgid "LB_TASK_MODER_TOPICS_DESC"
+msgstr "Moderation of new topics on the forum"
+
+msgid "LB_TASK_MODER_TOPICS_RULES"
+msgstr "When you are going to activate the moderation of the topic, be sure to complete the process (without leaving the page). Primarily this is due to the appointment you as a responsible person. After the checking theme, description and keyword; you will be moved to the topic directly for a comment audition and moderation."
+
+msgid "LB_TASK_NOT_YOURS"
+msgstr "It's a task of another translator"
+
+msgid "LB_TASK_TRANSLATION_INTERFACE"
+msgstr "Translation of the interface"
+
+msgid "LB_TASK_TRANSLATION_INTERFACE_DESC"
+msgstr "Foundation stone for the application to display the correct  interface translations"
+
+msgid "LB_TASK_TRANSLATION_TEXT"
+msgstr "Text page layout"
+
+msgid "LB_TASK_TRANSLATION_TEXT_ATTENTION"
+msgstr "Please note that by pressing <q>Apply changes</q>, you will immediately transmit the changes to the auditor for an overview. For the current tasks the middleware save option is missing."
+
+msgid "LB_TASK_TRANSLATION_TEXT_DESC"
+msgstr "Titles, descriptions, keywords for the basic pages on the site"
+
+msgid "LB_TASK_TRANSLATION_TEXT_RULES"
+msgstr "By continuing, you confirm to complete the task in the shortest time. Pages representation is the most priority tasks, because they reflect the overall guise of the portal. The full cycle from the appearance <q>bad</q> page to its approval should not exceed a few hours. The payment of this small jobs (up to 1000 symbols) is %d site's money. Confirmation on the page will lead to a random task for the current language. You have to fill the title, short description and keywords."
+
+msgid "LB_TASK_WAIT_APPROVEMENT"
+msgstr "The task is waiting for the confirmation from an auditor"
+
+msgid "LB_TITLE"
+msgstr "Without a title"
+
+msgid "LB_TODO_DO"
+msgstr "Under discussion"
+
+msgid "LB_TODO_IN"
+msgstr "Development mode"
+
+msgid "LB_TODO_NO"
+msgstr "Rejected"
+
+msgid "LB_TODO_OK"
+msgstr "Done"
+
+msgid "LB_TODO_WORK_ON"
+msgstr "currently working on"
+
+msgid "LB_TOPIC_DELETED"
+msgstr "%s's topic has been removed after the moderation %s %s."
+
+msgid "LB_TRANSLATION_HELP"
+msgstr "Help with translation"
+
+msgid "LB_USER_ACCESS_AUDIT"
+msgstr "Access for auditors"
+
+msgid "LB_USER_ACCESS_BLOCK"
+msgstr "Access denied"
+
+msgid "LB_USER_ACCESS_COMMENT"
+msgstr "Access to comment"
+
+msgid "LB_USER_ACCESS_DELETE"
+msgstr "Access to delete"
+
+msgid "LB_USER_ACCESS_EDIT"
+msgstr "Access to edit"
+
+msgid "LB_USER_ACCESS_MARK"
+msgstr "Access to rate"
+
+msgid "LB_USER_ACCESS_MODERATE"
+msgstr "Access for moderators"
+
+msgid "LB_USER_ACCESS_OWNER"
+msgstr "Access for the author and administrators"
+
+msgid "LB_USER_ACCESS_READ"
+msgstr "Access to read"
+
+msgid "LB_USER_ACCESS_TRANSLATE"
+msgstr "Access to translate"
+
+msgid "LB_VIEWS"
+msgstr "Number of views"
+
+msgid "LB_VIEW_PAGE"
+msgstr "View the page"
+
+msgid "LB_YEAR4_BEFORE"
+msgstr "years ago"
+
+msgid "LB_YEARS_BEFORE"
+msgstr "years ago"
+
+msgid "LB_YEAR_BEFORE"
+msgstr "year ago"

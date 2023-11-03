@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <database name="test">
+        <table_data name="access">
+            <row>
+                <field name="id">0</field>
+                <field name="access_id" />
+                <field name="title">LB_ACCESS_ADMIN</field>
+            </row>
+            <row>
+                <field name="id">6</field>
+                <field name="access_id" />
+                <field name="title">LB_ACCESS_OTHER</field>
+            </row>
+        </table_data>
+        
+        <table_data name="action">
+            <row>
+                <field name="id">1</field>
+                <field name="url">index</field>
+                <field name="action">index</field>
+            </row>
+        </table_data>
+        
+        <table_data name="access_action">
+            <row>
+                <field name="id">1</field>
+                <field name="action_id">1</field>
+                <field name="access_id">6</field>
+                <field name="permission">1</field>
+            </row>
+        </table_data>
+        
+        <table_data name="user">
+            <row>
+                <field name="id">0</field>
+                <field name="username">Anonimus</field>
+                <field name="cookie" />
+            </row>
+            <row>
+                <field name="id">1</field>
+                <field name="username">Admin</field>
+                <field name="cookie" />
+            </row>
+        </table_data>
+        
+        <table_data name="user_access">
+            <row>
+                <field name="id">1</field>
+                <field name="user_id">0</field>
+                <field name="access_id">6</field>
+            </row>
+            <row>
+                <field name="id">2</field>
+                <field name="user_id">1</field>
+                <field name="access_id">0</field>
+            </row>
+        </table_data>
+    </database>
+</mysqldump>

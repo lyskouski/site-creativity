@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="340"
+   height="340"
+   viewBox="65 0 340 430"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="article_type.svg">
+  <defs
+     id="defs16">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1-6"
+       id="pattern5425"
+       patternTransform="matrix(21.931081,0,0,6.1283894,-1027.2767,-65.082246)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern5423"
+       patternTransform="matrix(21.562313,0,0,5.9711399,-519.68126,-533.24934)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect4532"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1-6"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect4532-7"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     id="namedview14"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.1611803"
+     inkscape:cx="289.57484"
+     inkscape:cy="205.24698"
+     inkscape:window-x="-7"
+     inkscape:window-y="-10"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text2995"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true" />
+  <g
+     transform="scale(1.087523,0.91952076)"
+     style="font-size:579.55706787px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     id="text2995">
+    <path
+       style="fill:#000000;stroke:none"
+       d="m 38.158091,22.196059 357.431029,-0.0074 -0.0133,48.116883 -149.99442,-0.01238 0.0105,374.406258 -57.45096,0.001 -0.002,-374.395431 -149.974682,0.04257 z"
+    />
+  </g>
+  <rect
+     style="fill:url(#pattern5423);fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="rect2999-9"
+     width="318.2269"
+     height="138.37386"
+     x="88.6297"
+     y="-427.17303"
+     transform="matrix(0,1,-1,0,0,0)" />
+  <rect
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="rect2999"
+     width="138.47459"
+     height="87.457619"
+     x="288.69846"
+     y="84.317299" />
+  <rect
+     style="fill:url(#pattern5425);fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="rect2999-9-8"
+     width="323.66934"
+     height="142.01791"
+     x="-408.56213"
+     y="43.78756"
+     transform="matrix(0,-1,1,0,0,0)" />
+  <rect
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="rect2999-3"
+     width="142.11867"
+     height="87.457619"
+     x="-185.90623"
+     y="-406.85663"
+     transform="scale(-1,-1)" />
+</svg>

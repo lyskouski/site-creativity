@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doctrine-mapping xmlns="http://doctrine-project.org/schemas/orm/doctrine-mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://doctrine-project.org/schemas/orm/doctrine-mapping http://doctrine-project.org/schemas/orm/doctrine-mapping.xsd">
+  <entity name="Book" table="book">
+    <indexes>
+      <index name="b_author" columns="author"/>
+      <index name="b_title" columns="title"/>
+      <index name="b_content_id" columns="content_id"/>
+      <index name="b_year" columns="year"/>
+    </indexes>
+    <id name="id" type="bigint" column="id">
+      <generator strategy="IDENTITY"/>
+    </id>
+    <field name="author" type="string" column="author" length="255" nullable="true">
+      <options>
+        <option name="fixed"/>
+        <option name="comment">Author list</option>
+      </options>
+    </field>
+    <field name="title" type="string" column="title" length="255" nullable="true">
+      <options>
+        <option name="fixed"/>
+        <option name="comment">Book title</option>
+      </options>
+    </field>
+    <field name="year" type="integer" column="year" nullable="true">
+      <options>
+        <option name="unsigned"/>
+      </options>
+    </field>
+    <field name="pages" type="integer" column="pages" nullable="true">
+      <options>
+        <option name="unsigned"/>
+        <option name="default">0</option>
+      </options>
+    </field>
+    <many-to-one field="content" target-entity="Content" fetch="LAZY">
+      <join-columns>
+        <join-column name="content_id" referenced-column-name="id"/>
+      </join-columns>
+    </many-to-one>
+  </entity>
+</doctrine-mapping>

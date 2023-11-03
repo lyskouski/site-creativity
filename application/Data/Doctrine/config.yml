@@ -1,0 +1,8 @@
+doctrine:
+    dbal:
+        driver:   "pdo-mysql"
+        host:     ""
+        dbname:   ""
+        user:     ""
+        password: ""
+        charset: UTF8

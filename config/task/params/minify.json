@@ -1,0 +1,152 @@
+{
+    "default": {
+        "js": [
+            "lib/html5shiv.js",
+            "classes/Polyfill.js",
+            "lib/jquery.js",
+            "lib/history.js",
+            "classes/Vaviorka.js",
+            "!min.js",
+            "!classes/model/basic.js",
+            "!classes/model/translate.js",
+            "!classes/model/translate/be.js",
+            "!classes/model/translate/de.js",
+            "!classes/model/translate/en.js",
+            "!classes/model/translate/fr.js",
+            "!classes/model/translate/ru.js",
+            "!classes/model/translate/uk.js",
+            "!classes/Request/Pjax.js",
+            "!classes/Request/Form.js",
+            "!classes/View/Height.js",
+            "!classes/View/Href.js",
+            "!classes/View/Animate/Loading.js",
+            "!classes/Response/Error.js",
+            "!classes/Response/Json.js",
+            "!classes/Modules/Index/Logo.js",
+            "!classes/View/Graphics/Canvas.js",
+            "!classes/Ui/Element.js",
+            "!classes/View/Popup.js",
+            "!classes/View/Animate/Soft.js",
+            "!classes/Modules/Book/Calendar.js",
+            "!classes/View/Keys.js",
+            "*index.js"
+        ],
+        "css": [
+            "index.css"
+        ],
+        "datetime": 1571920100816,
+        "version": "0.5.6"
+    },
+    "oeuvre": {
+        "@extend": "default",
+        "js": [],
+        "css": [
+            "classes/Ui/Catalog.css"
+        ],
+        "datetime": 1571920100816
+    },
+    "oeuvre/prose": {
+        "@extend": "default",
+        "js": [
+            "!classes/Modules/Person/Work.js"
+        ],
+        "css": [
+            "classes/Ui/Catalog.css"
+        ],
+        "datetime": 1571920100816
+    },
+    "oeuvre/poetry": {
+        "@extend": "oeuvre/prose",
+        "js": [],
+        "css": [],
+        "datetime": 1571920100816
+    },
+    "mind/article": {
+        "@extend": "oeuvre/prose",
+        "js": [],
+        "css": [],
+        "datetime": 1571920100816
+    },
+    "dev": {
+        "@extend": "default",
+        "js": [],
+        "css": [
+            "classes/Ui/Element/Menu.css"
+        ],
+        "datetime": 1571920100816
+    },
+    "dev/board": {
+        "@extend": "dev",
+        "js": [],
+        "css": [],
+        "datetime": 1571920100816
+    },
+    "book/overview": {
+        "@extend": "default",
+        "js": [
+            "!classes/Modules/Book/Overview/Quote.js"
+        ],
+        "css": [
+            "classes/Ui/Element/Menu.css"
+        ],
+        "datetime": 1571920100816
+    },
+    "book/recite": {
+        "@extend": "default",
+        "js": [],
+        "css": [
+            "classes/Ui/Element/Menu.css"
+        ],
+        "datetime": 1571920100816
+    },
+    "book/calendar": {
+        "@extend": "default",
+        "js": [
+            "lib/history.js",
+            "lib/highcharts.js",
+            "lib/highcharts-more.js",
+            "!classes/View/DragDrop.js",
+            "!classes/Modules/Person/Work.js",
+            "!classes/Modules/Book/Calendar.js",
+            "!classes/Ui/Table.js",
+            "!classes/View/Size.js"
+        ],
+        "css": [
+            "index.css",
+            "classes/Ui/Table.css"
+        ],
+        "datetime": 1571920100816
+    },
+    "log/in": {
+        "@extend": "default",
+        "js": [
+            "lib/aes.js"
+        ],
+        "css": [],
+        "datetime": 1571920100816
+    },
+    "person/stat": {
+        "@extend": "default",
+        "js": [
+            "!classes/Ui/Table.js",
+            "!classes/View/Size.js",
+            "!classes/Modules/Person/Stat/Book.js"
+        ],
+        "css": [
+            "classes/Ui/Table.css",
+            "classes/Ui/Element/Menu.css"
+        ],
+        "datetime": 1571920100816
+    },
+    "mind/trainer/gibberish": {
+        "@extend": "default",
+        "js": [
+            "!classes/Modules/Mind/Trainer.js",
+            "!classes/Modules/Mind/Trainer/Gibberish.js"
+        ],
+        "css": [
+            "classes/Modules/Mind/Trainer/Gibberish.css"
+        ],
+        "datetime": 1571920100816
+    }
+}

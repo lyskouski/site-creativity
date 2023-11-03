@@ -1,0 +1,53 @@
+.el_ui_table, .el_ui_table_cell {
+    display: block;
+    box-shadow: inset 2px 2px 0 silver, inset -2px -2px 0 silver;
+}
+
+.el_ui_table_row {
+    display: table;
+    width: 100%;
+}
+.el_ui_table_row .el_ui_table_cell {
+    display: table-cell;
+}
+
+.el_ui_table_col {
+    display: block;
+    float: left;
+  /*  overflow: hidden; */
+}
+
+.el_ui_table_cell {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.el_ui_table_header {
+    font-weight: 600;
+}
+
+.button.el_ui_table_cell , .el_ui_table_cell {
+    padding: 2px 4px 3px;
+    margin: 0;
+}
+
+.el_ui_table, .el_ui_table_header {
+    box-shadow: inset 0 0 1px black;
+}
+
+.el_ui_table_cell, .el_ui_table_col {
+    box-shadow: inset 0 0 1px silver;
+}
+
+.el_ui_table_cell_even, .el_ui_table_cell.el_ui_table_cell_even {
+    box-shadow: inset 0 0 1px silver, inset 0 100px 0 rgba(122,122,122,0.1);
+}
+
+.el_ui_table_cell_header {
+    box-shadow: inset 0 0 1px silver, inset 0 100px 0 rgba(122,122,122,0.2);
+}
+
+.el_ui_table .active {
+    box-shadow: inset 0 -1px 0 silver, inset 0 10px 10px rgba(255,255,255,0.4);
+}

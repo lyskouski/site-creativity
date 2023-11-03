@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doctrine-mapping xmlns="http://doctrine-project.org/schemas/orm/doctrine-mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://doctrine-project.org/schemas/orm/doctrine-mapping http://doctrine-project.org/schemas/orm/doctrine-mapping.xsd">
+  <entity name="ContentNew" table="content_new">
+    <indexes>
+      <index name="cn_pattern" columns="pattern"/>
+      <index name="cn_author_id" columns="author_id"/>
+      <index name="cn_auditor_id" columns="auditor_id"/>
+      <index name="cn_updated_at" columns="updated_at"/>
+      <index name="cn_content_id" columns="content_id"/>
+    </indexes>
+    <unique-constraints>
+      <unique-constraint name="cn_un_search" columns="pattern,language,type"/>
+    </unique-constraints>
+    <id name="id" type="bigint" column="id">
+      <generator strategy="IDENTITY"/>
+    </id>
+    <field name="pattern" type="string" column="pattern" length="255" nullable="true">
+      <options>
+        <option name="fixed">1</option>
+      </options>
+    </field>
+    <field name="language" type="string" column="language" length="2" nullable="true">
+      <options>
+        <option name="fixed">1</option>
+      </options>
+    </field>
+    <field name="type" type="string" column="type" length="32" nullable="true">
+      <options>
+        <option name="fixed">1</option>
+      </options>
+    </field>
+    <field name="access" type="string" column="access" length="3" nullable="true">
+      <options>
+        <option name="fixed">1</option>
+        <option name="default">555</option>
+      </options>
+    </field>
+    <field name="updatedAt" type="datetime" column="updated_at" nullable="true">
+      <options>
+        <option name="default">CURRENT_TIMESTAMP</option>
+      </options>
+    </field>
+    <field name="content" type="text" column="content" length="65535" nullable="true">
+      <options>
+        <option name="fixed"/>
+      </options>
+    </field>
+    <many-to-one field="content2" target-entity="Content" fetch="LAZY">
+      <join-columns>
+        <join-column name="content_id" referenced-column-name="id"/>
+      </join-columns>
+    </many-to-one>
+    <many-to-one field="author" target-entity="User" fetch="LAZY">
+      <join-columns>
+        <join-column name="author_id" referenced-column-name="id"/>
+      </join-columns>
+    </many-to-one>
+    <many-to-one field="auditor" target-entity="User" fetch="LAZY">
+      <join-columns>
+        <join-column name="auditor_id" referenced-column-name="id"/>
+      </join-columns>
+    </many-to-one>
+  </entity>
+</doctrine-mapping>

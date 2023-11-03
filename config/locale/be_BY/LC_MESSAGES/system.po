@@ -1,0 +1,2007 @@
+msgid ""
+msgstr "Project-Id-Version: system\n"
+"POT-Creation-Date: 2015-06-12 10:38+0300\n"
+"PO-Revision-Date: 2015-09-29 14:50+0300\n"
+"Last-Translator: Viachaslau Lyskouski<support@creativity.by>\n"
+"Language-Team: support <support@creativity.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: be_BY\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+""
+
+msgid "EMAIL"
+msgstr "support@creativity.by"
+
+msgid "LB_ACCESS"
+msgstr "Доступ"
+
+msgid "LB_ACCESS_4AUTHOR"
+msgstr "Для аўтара"
+
+msgid "LB_ACCESS_4GROUP"
+msgstr "Для карыстальнікаў"
+
+msgid "LB_ACCESS_4OTHERS"
+msgstr "Для гасцей"
+
+msgid "LB_ACCESS_ACTION"
+msgstr "адрас сайта ⊶ дзеянне"
+
+msgid "LB_ACCESS_ACTION_LIST"
+msgstr "Спіс даступных / забароненых адрасоў"
+
+msgid "LB_ACCESS_ADD_NEW"
+msgstr "Стварыць новую групу карыстальнікаў"
+
+msgid "LB_ACCESS_ADMIN"
+msgstr "Адміністратар"
+
+msgid "LB_ACCESS_ADMIN_DESCRIPTION"
+msgstr "Дэміург Творчага парталу «Terra Ad Caelum» з максімальным узроўнем доступу і прывілеямі."
+
+msgid "LB_ACCESS_AUDITOR"
+msgstr "Аўдытар"
+
+msgid "LB_ACCESS_AUDITOR_DESCRIPTION"
+msgstr "Адказвае за якасць матэрыялу на сайце: правярае працу перакладчыкаў, праглядае публікацыі карыстальнікаў перад іх размяшчэннем у агульны доступ."
+
+msgid "LB_ACCESS_AUTHOR"
+msgstr "Аўтар"
+
+msgid "LB_ACCESS_AUTHOR_DESCRIPTION"
+msgstr "Можа публікаваць свае працы на сайце."
+
+msgid "LB_ACCESS_BLOCKED"
+msgstr "Ізгой"
+
+msgid "LB_ACCESS_BLOCKED_DESCRIPTION"
+msgstr "Карыстальнік, які перайшоў рысу маралі і ўзаемапавагі пры размове з іншай часткай карыстальнікаў. Не мае правоў на якія-небудзь дзеянні, і не можа быць адноўлены ў сваіх правах (калі быў заблакаваны адміністрацыяй)."
+
+msgid "LB_ACCESS_ENTER_TOKEN"
+msgstr "Увядзіце на сайце праверачны код"
+
+msgid "LB_ACCESS_MODER"
+msgstr "Мадэратар"
+
+msgid "LB_ACCESS_MODER_DESCRIPTION"
+msgstr "Правярае каментары і тэмы форуму на адпаведнасць правілам партала."
+
+msgid "LB_ACCESS_NEW_DESIGNER"
+msgstr "Дызайнэр"
+
+msgid "LB_ACCESS_NEW_DESIGNER_DESCRIPTION"
+msgstr "Прымае актыўны ўдзел у падтрымцы і развіцці фірмовага стылю партала."
+
+msgid "LB_ACCESS_NEW_EDITOR"
+msgstr "Галоўны рэдактар"
+
+msgid "LB_ACCESS_NEW_EDITOR_DESCRIPTION"
+msgstr "Можа кіраваць прывілеямі карыстальнікаў на сайце. У астатнім мае тыя ж паўнамоцтвы, што і Аўдытар."
+
+msgid "LB_ACCESS_NEW_EXPERT"
+msgstr "Эксперт"
+
+msgid "LB_ACCESS_NEW_EXPERT_DESCRIPTION"
+msgstr "Карыстальнік прымае ўдзел у развіцці і станаўленні праекта."
+
+msgid "LB_ACCESS_NEW_MUSICIAN"
+msgstr "Музыка"
+
+msgid "LB_ACCESS_NEW_MUSICIAN_DESCRIPTION"
+msgstr "Аўтар з пашыранымі правамі пры публікацыі работ музычнай тэматыкі."
+
+msgid "LB_ACCESS_NEW_PAINTER"
+msgstr "Мастак"
+
+msgid "LB_ACCESS_NEW_PAINTER_DESCRIPTION"
+msgstr "Аўтар з пашыранымі правамі пры публікацыі работ дызайнерскай тэматыкі."
+
+msgid "LB_ACCESS_NEW_POET"
+msgstr "Паэт"
+
+msgid "LB_ACCESS_NEW_POET_DESCRIPTION"
+msgstr "Аўтар з пашыранымі правамі пры публікацыі работ паэтычнай тэматыкі."
+
+msgid "LB_ACCESS_NEW_PUBLICIST"
+msgstr "Публіцыст"
+
+msgid "LB_ACCESS_NEW_PUBLICIST_DESCRIPTION"
+msgstr "Аўтар з пашыранымі правамі пры публікацыі артыкулаў."
+
+msgid "LB_ACCESS_NEW_WRITER"
+msgstr "Пісьменнік"
+
+msgid "LB_ACCESS_NEW_WRITER_DESCRIPTION"
+msgstr "Аўтар з пашыранымі правамі пры публікацыі работ празаічнай тэматыкі."
+
+msgid "LB_ACCESS_OTHER"
+msgstr "Не аўтарызаваны"
+
+msgid "LB_ACCESS_OTHER_DESCRIPTION"
+msgstr "Неаўтарызаваны карыстальнік. Валодае наборам мінімальных правоў для азнаямлення з матэрыяламі сайта."
+
+msgid "LB_ACCESS_TASKS_AUDITOR"
+msgstr "Заданні аўдытару"
+
+msgid "LB_ACCESS_TASKS_MODER"
+msgstr "Заданні мадэратару"
+
+msgid "LB_ACCESS_TASKS_TRANSLATOR"
+msgstr "Заданні перакладчыку"
+
+msgid "LB_ACCESS_TEXT_DESCRIPTION"
+msgstr "Кіраваньне прывілеямі груп карыстальнікаў: дабаўленне новых груп, змена спадчыннасці і доступу да старонак сайта і дзеянням на іх."
+
+msgid "LB_ACCESS_TRANSLATOR"
+msgstr "Перакладчык"
+
+msgid "LB_ACCESS_TRANSLATOR_DESCRIPTION"
+msgstr "Карыстальнік прымае ўдзел у падтрымцы шматмоўнасці партала."
+
+msgid "LB_ACCESS_USER"
+msgstr "Карыстальнік"
+
+msgid "LB_ACCESS_USER_DESCRIPTION"
+msgstr "Аўтарызаваны карыстальнік можа чытаць, каментаваць і ацэньваць. А таксама ўдзельнічаць у жыцці партала праз форум."
+
+msgid "LB_ACTION_SAVE"
+msgstr "Статус захавання"
+
+msgid "LB_ACTION_SAVE_ATTENTION"
+msgstr "Ідзе захаванне, калі ласка, не пакідайце старонку да заканчэння працэсу."
+
+msgid "LB_ACTION_SAVE_PROCESS"
+msgstr "Працэс захавання"
+
+msgid "LB_ADD_COMMENT"
+msgstr "Дадаць водгук"
+
+msgid "LB_ALPHABET"
+msgstr "АБВГДЕЁЖЗІЙКЛМНОПРСТУЎФХЦЧШЫЬЭЮЯабвгдеёжзійклмнопрстуўфхцчшыьэюя"
+
+msgid "LB_ARTICLE_ADD_PAGE"
+msgstr "Дадаць новую старонку"
+
+msgid "LB_ARTICLE_CHANGE_IMAGE"
+msgstr "Загрузіць свой ўласны малюнак"
+
+msgid "LB_ARTICLE_CREATED"
+msgstr "Твор створан"
+
+msgid "LB_ARTICLE_DESCRIPTION"
+msgstr "Кароткае апісанне"
+
+msgid "LB_ARTICLE_IMAGE"
+msgstr "Iлюстрацыя"
+
+msgid "LB_ARTICLE_KEYWORDS"
+msgstr "Ключавыя словы"
+
+msgid "LB_ARTICLE_SEARCH_CATEGORY"
+msgstr "Выбар катэгорыі"
+
+msgid "LB_ARTICLE_TITLE"
+msgstr "Загаловак"
+
+msgid "LB_AUTH_ACCEPT_DESCRIPTION"
+msgstr "Працягваючы, Вы прымаеце і пацьвярджаеце захаванне ўмоў, правілаў і нормаў выкарыстання сайта creativity.by (сумежнае права сайта на апублікаваныя Вамі матэрыялы)."
+
+msgid "LB_AUTH_BY_MAIL"
+msgstr "Аўтарызацыя праз email"
+
+msgid "LB_AUTH_ENTER"
+msgstr "Аўтарызацыя"
+
+msgid "LB_AUTH_EXIST"
+msgstr "Профіль ўжо падлучаны да Вашага ўліковага запісу"
+
+msgid "LB_AUTH_FACEBOOK"
+msgstr "Facebook"
+
+msgid "LB_AUTH_FACEBOOK_DESCRIPTION"
+msgstr "Спрошчаная аўтарызацыя праз Facebook (з магчымай наладай абвестак)"
+
+msgid "LB_AUTH_FINAL_STAGE"
+msgstr "Завяршальны этап рэгістрацыі"
+
+msgid "LB_AUTH_FINAL_STAGE_DESCRIPTION"
+msgstr "Увядзіце свой нікнэйм для ідэнтыфікацыі на сайце (будзе адлюстроўвацца замест аўтарызацыйных звестак пад каментарамі ці іншым кантэнтам). У далейшым зможаце падключыць да свайго профілю іншыя спосабы аўтарызацыі, і выкарыстоўваць іх для апавяшчэння або спрошчанага падключэння."
+
+msgid "LB_AUTH_GOOGLE"
+msgstr "Google +"
+
+msgid "LB_AUTH_GOOGLE_DESCRIPTION"
+msgstr "Спрошчаная аўтарызацыя праз Google+"
+
+msgid "LB_AUTH_ICQ"
+msgstr "ICQ"
+
+msgid "LB_AUTH_ICQ_DESCRIPTION"
+msgstr "Актывацыя ICQ для сыстэмы абвестак"
+
+msgid "LB_AUTH_LINKEDIN"
+msgstr "LinkedIn"
+
+msgid "LB_AUTH_LINKEDIN_DESCRIPTION"
+msgstr "Спрошчаная аўтарызацыя праз LinkedIn"
+
+msgid "LB_AUTH_MAIL"
+msgstr "Пошта"
+
+msgid "LB_AUTH_MAIL_DESCRIPTION"
+msgstr "Неабходны для актывацыі іншых статусаў карыстальніка (Пісьменнік, Мастак, ...)"
+
+msgid "LB_AUTH_PASSWORD"
+msgstr "Пароль"
+
+msgid "LB_AUTH_PERSONA"
+msgstr "Persona"
+
+msgid "LB_AUTH_PERSONA_DESCRIPTION"
+msgstr "Спрошчаная аўтарызацыя праз Persona.org (Mozilla)"
+
+msgid "LB_AUTH_PHONE_NUMBER"
+msgstr "Нумар тэлефона"
+
+msgid "LB_AUTH_REGISTRY"
+msgstr "Рэгістрацыя"
+
+msgid "LB_AUTH_RESTORE_PASSWORD"
+msgstr "Запамятавалі пароль?"
+
+msgid "LB_AUTH_TELEGRAM"
+msgstr "Telegram"
+
+msgid "LB_AUTH_TELEGRAM_DESCRIPTION"
+msgstr "Актывацыя Telegram для сыстэмы абвестак"
+
+msgid "LB_AUTH_TOKEN"
+msgstr "Код з адпраўленага Вам ліста пошты"
+
+msgid "LB_AUTH_TWITTER"
+msgstr "Twitter"
+
+msgid "LB_AUTH_TWITTER_DESCRIPTION"
+msgstr "Спрошчаная аўтарызацыя праз Twitter (з магчымай наладай абвестак)"
+
+msgid "LB_AUTH_USERNAME"
+msgstr "Нікнэйм"
+
+msgid "LB_AUTH_VIBER"
+msgstr "Viber"
+
+msgid "LB_AUTH_VIBER_DESCRIPTION"
+msgstr "Актывацыя Viber для сыстэмы абвестак"
+
+msgid "LB_AUTH_VK"
+msgstr "Укантакце"
+
+msgid "LB_AUTH_VK_DESCRIPTION"
+msgstr "Спрошчаная аўтарызацыя праз vk.com (з магчымай наладай абвестак)"
+
+msgid "LB_AUTH_WHATSUP"
+msgstr "WhatsUp"
+
+msgid "LB_AUTH_WHATSUP_DESCRIPTION"
+msgstr "Актывацыя WhatsUp для сістэмы абвестак"
+
+msgid "LB_AUTO_AUTHOR_DESC"
+msgstr "{!} Пошук аўтараў па імя або прозвішчу (або іх часткі) сярод апублікаваных аглядаў кніг: %s"
+
+msgid "LB_AUTO_AUTHOR_KEYS"
+msgstr "%s, пошук, аўтары, кнігі"
+
+msgid "LB_AUTO_AUTHOR_TITLE"
+msgstr "Пошук аўтараў: %s"
+
+msgid "LB_AUTO_PERSONAL_DESC"
+msgstr "Персанальная старонка карыстальніка, вядомага пад псеўданімам %s на творчым партале «Terra Ad Caelum»."
+
+msgid "LB_AUTO_PERSONAL_KEYS"
+msgstr "%s, карыстальнік, партал"
+
+msgid "LB_AUTO_PERSONAL_TITLE"
+msgstr "Персанальная старонка"
+
+msgid "LB_AUTO_SEARCH_DESC"
+msgstr "Пошук па ключавым слове `%s` сярод апублікаванага кантэнту."
+
+msgid "LB_AUTO_SEARCH_KEYS"
+msgstr "%s, пошук, творчы партал"
+
+msgid "LB_AUTO_SEARCH_TITLE"
+msgstr "Пошук па ключавым слове `%s`"
+
+msgid "LB_BOOK_AUTHOR"
+msgstr "Аўтар(ы)"
+
+msgid "LB_BOOK_AUTHOR_DESC"
+msgstr "Пазначце аўтараў кнігі праз коску"
+
+msgid "LB_BOOK_CALENDAR_LIST_VIEW"
+msgstr "Пераключэнне паміж табличным і радковым прадстаўленнем спісу."
+
+msgid "LB_BOOK_CALENDAR_PAGE_VIEW"
+msgstr "Пераключэнне паміж старонкамі і адсоткамі чытання."
+
+msgid "LB_BOOK_CALENDAR_SELECT"
+msgstr "Вылучыце опцыю перамяшчэння"
+
+msgid "LB_BOOK_CALENDAR_SELECT_DOWN"
+msgstr "↓ Перамясціць ніжэй"
+
+msgid "LB_BOOK_CALENDAR_SELECT_END"
+msgstr "≚ Перамясціць у канец"
+
+msgid "LB_BOOK_CALENDAR_SELECT_FIRST"
+msgstr "≙ Перамясціць у пачатак"
+
+msgid "LB_BOOK_CALENDAR_SELECT_UP"
+msgstr "↑ Перамясціць вышэй"
+
+msgid "LB_BOOK_CATEGORY"
+msgstr "Катэгорыі"
+
+msgid "LB_BOOK_CATEGORY_DESC"
+msgstr "Вызначце катэгорыі кнігі праз коску (ад агульнай да прыватнай катэгорыі)"
+
+msgid "LB_BOOK_COMMENTS"
+msgstr "Меркаванне чытачоў"
+
+msgid "LB_BOOK_COVER"
+msgstr "Вокладка кнігі"
+
+msgid "LB_BOOK_DATE"
+msgstr "Публікацыя"
+
+msgid "LB_BOOK_DESCRIPTION"
+msgstr "Пашыранае апісанне"
+
+msgid "LB_BOOK_ISBN"
+msgstr "ISBN"
+
+msgid "LB_BOOK_LIST"
+msgstr "Спіс для чытання"
+
+msgid "LB_BOOK_LIST_ADD"
+msgstr "Дадаць у спіс"
+
+msgid "LB_BOOK_LIST_CHANGE"
+msgstr "Змяніць спіс"
+
+msgid "LB_BOOK_LIST_DAYS_LEFT"
+msgstr "Засталося прачытаць %s старонак, спатрэбіцца %s дзен. Усяго нічога!)"
+
+msgid "LB_BOOK_LIST_DELETE"
+msgstr "Перадумаў чытаць"
+
+msgid "LB_BOOK_LIST_DELETE_DESC"
+msgstr "Змесціце сюды кнігу для выдалення"
+
+msgid "LB_BOOK_LIST_DESC"
+msgstr "Нататка"
+
+msgid "LB_BOOK_LIST_FINISH"
+msgstr "Прачытана"
+
+msgid "LB_BOOK_LIST_MISSING"
+msgstr "Спіс для чытання адсутнічае"
+
+msgid "LB_BOOK_LIST_NAME"
+msgstr "Назва спісу"
+
+msgid "LB_BOOK_LIST_READ"
+msgstr "Чытаю"
+
+msgid "LB_BOOK_LIST_REMOVE"
+msgstr "Выдаліць з спісу"
+
+msgid "LB_BOOK_LIST_SUMMARY"
+msgstr "Кніг у спісе"
+
+msgid "LB_BOOK_LIST_WISH"
+msgstr "Для чытання"
+
+msgid "LB_BOOK_MAIN"
+msgstr "Кнігі"
+
+msgid "LB_BOOK_OVERVIEW"
+msgstr "Агляды кніг"
+
+msgid "LB_BOOK_PAGE"
+msgstr "Старонка"
+
+msgid "LB_BOOK_PAGES"
+msgstr "Колькасць старонак"
+
+msgid "LB_BOOK_RATING"
+msgstr "Ацэнка пасля чытання"
+
+msgid "LB_BOOK_RECITE"
+msgstr "Цытаты з кніг"
+
+msgid "LB_BOOK_RECITE_DEVICE_IMPORT"
+msgstr "Загрузка нататак і цытат з %s (размяшчэнне нататак на прыладзе: %s)"
+
+msgid "LB_BOOK_RECITE_IMPORT"
+msgstr "Імпарт"
+
+msgid "LB_BOOK_RECITE_LOAD"
+msgstr "Імпарт нататак"
+
+msgid "LB_BOOK_RECITE_MINE"
+msgstr "Ўласныя нататкі"
+
+msgid "LB_BOOK_RECITE_PERSON"
+msgstr "Персанальныя"
+
+msgid "LB_BOOK_RECITE_RANDOM"
+msgstr "Выпадковыя"
+
+msgid "LB_BOOK_RECITE_SEARCH"
+msgstr "Пошук нататак..."
+
+msgid "LB_BOOK_RECITE_SINGLE"
+msgstr "Цытата"
+
+msgid "LB_BOOK_SEARCH"
+msgstr "Пошук кніг..."
+
+msgid "LB_BOOK_STATISTICS"
+msgstr "Статыстыка чытання"
+
+msgid "LB_BOOK_STATISTICS_MISSING"
+msgstr "Адзначайце кожны дзень, колькі старонак было прачытана, каб з'явілася статыстыка ў зрэзе ўсіх кніг і спісаў, а таксама хуткасць чытання."
+
+msgid "LB_BOOK_UDC"
+msgstr "УДК"
+
+msgid "LB_BUTTON_ACCEPT"
+msgstr "Прыняць"
+
+msgid "LB_BUTTON_ACCESS"
+msgstr "Дазволіць"
+
+msgid "LB_BUTTON_ADD"
+msgstr "Дадаць"
+
+msgid "LB_BUTTON_APPLY"
+msgstr "Прымяніць змены"
+
+msgid "LB_BUTTON_APPROVE"
+msgstr "Зацвердзіць"
+
+msgid "LB_BUTTON_BACK"
+msgstr "Завяршыць"
+
+msgid "LB_BUTTON_CANCEL"
+msgstr "Адмяніць"
+
+msgid "LB_BUTTON_CHECK_UPDATES"
+msgstr "Праверыць абнаўлення"
+
+msgid "LB_BUTTON_CLEAR_UPDATES"
+msgstr "Ачысціць лакальныя змены"
+
+msgid "LB_BUTTON_CONTINUE"
+msgstr "Працягнуць"
+
+msgid "LB_BUTTON_CREATE"
+msgstr "Стварыць"
+
+msgid "LB_BUTTON_DECLINE"
+msgstr "Схаваць"
+
+msgid "LB_BUTTON_DELETE"
+msgstr "Выдаліць"
+
+msgid "LB_BUTTON_DENY"
+msgstr "Забараніць"
+
+msgid "LB_BUTTON_EDIT"
+msgstr "Змяніць"
+
+msgid "LB_BUTTON_FINISH"
+msgstr "Гатова"
+
+msgid "LB_BUTTON_IMPORT"
+msgstr "Загрузіць"
+
+msgid "LB_BUTTON_MODIFY"
+msgstr "Змяніць"
+
+msgid "LB_BUTTON_MOVE"
+msgstr "Зрушыць"
+
+msgid "LB_BUTTON_PUBLICATE"
+msgstr "Апублікаваць"
+
+msgid "LB_BUTTON_REFRESH"
+msgstr "Абнавіць"
+
+msgid "LB_BUTTON_REJECT"
+msgstr "Адхіліць"
+
+msgid "LB_BUTTON_RESTART"
+msgstr "Перазапусціць"
+
+msgid "LB_BUTTON_RESTORE"
+msgstr "Аднавіць"
+
+msgid "LB_BUTTON_SAVE"
+msgstr "Захаваць"
+
+msgid "LB_BUTTON_SEARCH"
+msgstr "Пошук"
+
+msgid "LB_BUTTON_START"
+msgstr "Пачаць"
+
+msgid "LB_BUTTON_SUBMIT"
+msgstr "Адправіць"
+
+msgid "LB_CATEGORY_ACRO"
+msgstr "Акро - або тэле-верш"
+
+msgid "LB_CATEGORY_ACTION"
+msgstr "Баявік"
+
+msgid "LB_CATEGORY_ACTIVATION_OF_CREATIVITY"
+msgstr "Актывізацыя творчасці"
+
+msgid "LB_CATEGORY_ALIDERIYA"
+msgstr "Алідэрыя"
+
+msgid "LB_CATEGORY_ALTERNATE_PROSE"
+msgstr "Альтэрнатыўная проза"
+
+msgid "LB_CATEGORY_ALTERNATIVE_POETRY"
+msgstr "Альтэрнатыўная паэзія"
+
+msgid "LB_CATEGORY_ARBITRARY_MEMORY"
+msgstr "Адвольная памяць"
+
+msgid "LB_CATEGORY_ART_HISTORY"
+msgstr "Мастацтвазнаўства"
+
+msgid "LB_CATEGORY_AURAL_MEMORY"
+msgstr "Слыхавая памяць"
+
+msgid "LB_CATEGORY_AVAILABILITY_OF_MEANS"
+msgstr "Па наяўнасці сродкаў"
+
+msgid "LB_CATEGORY_BELARUSIAN"
+msgstr "Беларуская мова"
+
+msgid "LB_CATEGORY_BLANK_VERSE"
+msgstr "Белы верш"
+
+msgid "LB_CATEGORY_CHARADE"
+msgstr "Шарада"
+
+msgid "LB_CATEGORY_CHEMISTRY"
+msgstr "Хімія"
+
+msgid "LB_CATEGORY_COLLECTION_OF_POEMS"
+msgstr "Зборнік вершаў"
+
+msgid "LB_CATEGORY_DETECTIVE"
+msgstr "Дэтэктыў"
+
+msgid "LB_CATEGORY_DIRECT_MEMORY"
+msgstr "Непасрэдная памяць"
+
+msgid "LB_CATEGORY_EMOTIONAL_MEMORY"
+msgstr "Эмацыйная памяць"
+
+msgid "LB_CATEGORY_ENGLISH"
+msgstr "Англійская мова"
+
+msgid "LB_CATEGORY_EPISODIC_MEMORY"
+msgstr "Эпізадычная памяць"
+
+msgid "LB_CATEGORY_EXACT_SCIENCE"
+msgstr "Дакладныя навукі"
+
+msgid "LB_CATEGORY_EXTERNAL_MEMORY"
+msgstr "Знешняя памяць"
+
+msgid "LB_CATEGORY_FANTASIE"
+msgstr "Фэнтэзі"
+
+msgid "LB_CATEGORY_FANTASY"
+msgstr "Фантастыка"
+
+msgid "LB_CATEGORY_FIGURATIVE_MEMORY"
+msgstr "Вобразная памяць"
+
+msgid "LB_CATEGORY_FLAVORING_MEMORY"
+msgstr "Смакавая памяць"
+
+msgid "LB_CATEGORY_FREE_VERSE"
+msgstr "Вольны верш"
+
+msgid "LB_CATEGORY_GUITAR"
+msgstr "Гітара"
+
+msgid "LB_CATEGORY_HUMANITIES"
+msgstr "Гуманітарныя навукі"
+
+msgid "LB_CATEGORY_INDIRECT_MEMORY"
+msgstr "Апасродкаваная памяць"
+
+msgid "LB_CATEGORY_INTERNAL_MEMORY"
+msgstr "Унутраная памяць"
+
+msgid "LB_CATEGORY_INVOLUNTARY_MEMORY"
+msgstr "Міжвольная памяць"
+
+msgid "LB_CATEGORY_IN_CONTENT"
+msgstr "Па змесце"
+
+msgid "LB_CATEGORY_IN_PROSE"
+msgstr "У прозе"
+
+msgid "LB_CATEGORY_ISHTWAR"
+msgstr "Іштвар"
+
+msgid "LB_CATEGORY_KINESTHETIC_MEMORY"
+msgstr "Кінэстэтычная памяць"
+
+msgid "LB_CATEGORY_KLANZ"
+msgstr "Кланз"
+
+msgid "LB_CATEGORY_LEAGUE_OF_HEROES"
+msgstr "Ліга Герояў"
+
+msgid "LB_CATEGORY_LINGUISTICS"
+msgstr "Лінгвістыка"
+
+msgid "LB_CATEGORY_LOGICAL_MEMORY"
+msgstr "Лагічная памяць"
+
+msgid "LB_CATEGORY_LONGTERM_MEMORY"
+msgstr "Даўгачасная памяць"
+
+msgid "LB_CATEGORY_LOST_WORLDS"
+msgstr "Згубленыя сусветы"
+
+msgid "LB_CATEGORY_MATHEMATICS"
+msgstr "Матэматыка"
+
+msgid "LB_CATEGORY_MAZE"
+msgstr "Лабірынт"
+
+msgid "LB_CATEGORY_MEMORY_ORGANIZATION"
+msgstr "Па арганізацыі запамінання"
+
+msgid "LB_CATEGORY_METHODS"
+msgstr "Метады"
+
+msgid "LB_CATEGORY_MNEMONICS"
+msgstr "Мнемоніка"
+
+msgid "LB_CATEGORY_MONORY"
+msgstr "Монарым"
+
+msgid "LB_CATEGORY_MOTOR_MEMORY"
+msgstr "Маторная памяць"
+
+msgid "LB_CATEGORY_MUSIC_EDUCATION"
+msgstr "Музычная адукацыя"
+
+msgid "LB_CATEGORY_MYSTIC"
+msgstr "Містыка"
+
+msgid "LB_CATEGORY_NOVEL"
+msgstr "Раман"
+
+msgid "LB_CATEGORY_OBJECTS"
+msgstr "Аб'екты"
+
+msgid "LB_CATEGORY_OLFACTORY_MEMORY"
+msgstr "Нюхальная памяць"
+
+msgid "LB_CATEGORY_PARABLE"
+msgstr "Прыпавесць"
+
+msgid "LB_CATEGORY_PHYSICS"
+msgstr "Фізіка"
+
+msgid "LB_CATEGORY_POETRY"
+msgstr "Паэзія"
+
+msgid "LB_CATEGORY_POSTMODERNISM"
+msgstr "Постмадэрнізм"
+
+msgid "LB_CATEGORY_PROCEDURAL_MEMORY"
+msgstr "Працэдурная памяць"
+
+msgid "LB_CATEGORY_PROSE"
+msgstr "Проза"
+
+msgid "LB_CATEGORY_PSYCHEDELIC"
+msgstr "Псіхадэліка"
+
+msgid "LB_CATEGORY_REALISM"
+msgstr "Рэалізм"
+
+msgid "LB_CATEGORY_SCIENCE_FICTION"
+msgstr "Навуковая фантастыка"
+
+msgid "LB_CATEGORY_SEMANTIC_MEMORY"
+msgstr "Семантычная памяць"
+
+msgid "LB_CATEGORY_SEMIOLOGY"
+msgstr "Семіётыка"
+
+msgid "LB_CATEGORY_SENSORY_MODALITY"
+msgstr "Па сэнсарнай мадальнасці"
+
+msgid "LB_CATEGORY_SHORTTERM_MEMORY"
+msgstr "Кароткачасовая памяць"
+
+msgid "LB_CATEGORY_SOCIAL_SCIENCIES"
+msgstr "Сацыяльныя навукі"
+
+msgid "LB_CATEGORY_SONNET"
+msgstr "Санет"
+
+msgid "LB_CATEGORY_STORING_METHOD"
+msgstr "Па спосабе захоўвання"
+
+msgid "LB_CATEGORY_SURREALISM"
+msgstr "Сюррэалізм"
+
+msgid "LB_CATEGORY_SYMBOLIC_MEMORY"
+msgstr "Сімвалічная памяць"
+
+msgid "LB_CATEGORY_TACTILE_MEMORY"
+msgstr "Датыкальная памяць"
+
+msgid "LB_CATEGORY_TARGET_DESIGNATION"
+msgstr "Па наяўнасці мэты"
+
+msgid "LB_CATEGORY_THE_EDGE_OF_REALITY"
+msgstr "Грані Рэальнасці"
+
+msgid "LB_CATEGORY_THRILLER"
+msgstr "Трылер"
+
+msgid "LB_CATEGORY_TIME_CHARACTERISTICS"
+msgstr "Па часавых характарыстыках"
+
+msgid "LB_CATEGORY_ULTRASHORTTERM_MEMORY"
+msgstr "Ультра-кароткачасовая памяць"
+
+msgid "LB_CATEGORY_VERBAL_MEMORY"
+msgstr "Слоўная памяць"
+
+msgid "LB_CATEGORY_VERSE"
+msgstr "Вершы"
+
+msgid "LB_CATEGORY_VERS_LIBRE"
+msgstr "Верлібр"
+
+msgid "LB_CATEGORY_VISUAL_MEMORY"
+msgstr "Глядзельная памяць"
+
+msgid "LB_CATEGORY_ОEUVRE"
+msgstr "Творчасць"
+
+msgid "LB_COGNITION"
+msgstr "Пазнанне"
+
+msgid "LB_COMMENT"
+msgstr "Водгукі"
+
+msgid "LB_COMMENTS"
+msgstr "Каментары"
+
+msgid "LB_COMMENT_CONTENT"
+msgstr "Змест каментара..."
+
+msgid "LB_COMMENT_MARK"
+msgstr "Ацаніць"
+
+msgid "LB_COMMENT_MARK_NEGATIVE"
+msgstr "Негатыўна"
+
+msgid "LB_COMMENT_MARK_POSITIVE"
+msgstr "Дадатна"
+
+msgid "LB_COMMENT_MARK_SKIP"
+msgstr "Не ацэньваць"
+
+msgid "LB_COMMENT_MORE"
+msgstr "Паказаць яшчэ каментары"
+
+msgid "LB_CONFIG"
+msgstr "Налады"
+
+msgid "LB_CONTENT"
+msgstr "Змест"
+
+msgid "LB_CONTENT_FOR_APPROVEMENT"
+msgstr "Матэрыял для праверкі"
+
+msgid "LB_CONTENT_FOR_APPROVEMENT_DESC"
+msgstr "Праверыць, каб матэрыял быў аформлены на належным узроўні: не парушаў правілаў партала, адсутнічалі пунктуацыйныя і граматычныя памылкі, вытрымана агульная стылістыка."
+
+msgid "LB_CONTENT_FOR_DELETE"
+msgstr "Матэрыял на выдаленне (вельмі асцярожна)"
+
+msgid "LB_CONTENT_IS_MISSING"
+msgstr "На цяперашні момант у раздзеле адсутнічае якое-небудзь інфармацыйнае напаўненне. Просім наведаць гэту старонку пазней; таксама, пры жаданні, Вы можаце дапамагчы нам запоўніць прабелы на сайце (звяртайцеся на <q>Форум / Служба падтрымкі</q> да падзелу <q>Прапановы</q>)."
+
+msgid "LB_CONTENT_PATTERN"
+msgstr "Адрас (патэрн) матэрыялу"
+
+msgid "LB_CONTENT_SEARCH"
+msgstr "Пошук па ключавым слове..."
+
+msgid "LB_CONTENT_SERIES"
+msgstr "Частка цыкла/серыі кніг"
+
+msgid "LB_CONTENT_WAS_PUBLISHED"
+msgstr "Кантэнт быў апублікаваны на сайце"
+
+msgid "LB_CONTENT_WAS_REJECTED"
+msgstr "Кантэнт адхілен і адпраўлен на дапрацоўку"
+
+msgid "LB_COPYRIGHT"
+msgstr "Выключнае права"
+
+msgid "LB_COPYRIGHT_CONDITIONS"
+msgstr "Выключнае права прадугледжвае, што Творчы партал «Terra Ad Caelum» мае права дазваляць або забараняць іншым асобам выкарыстоўваць прадстаўленыя на сайце матэрыялы (адсутнасць забароны не з'яўляецца згодай). Дапускаецца толькі цытаванне матэрыялаў са зваротнай актыўнай спасылкаю. Незаконнае выкарыстанне вабіць да адказнасці згодна з заканадаўствам краіны рэспандэнта."
+
+msgid "LB_DAY4_BEFORE"
+msgstr "дні таму"
+
+msgid "LB_DAYS_BEFORE"
+msgstr "дзен таму"
+
+msgid "LB_DAY_BEFORE"
+msgstr "дзень таму"
+
+msgid "LB_DECOR"
+msgstr "афармленне"
+
+msgid "LB_DESCRIPTION"
+msgstr "Апісанне"
+
+msgid "LB_DEV_BOARD_ACTIVE"
+msgstr "Цяперашнее"
+
+msgid "LB_DEV_BOARD_DELETE"
+msgstr "Адхілена"
+
+msgid "LB_DEV_BOARD_DELETE_DESC"
+msgstr "Перанясіце сюды для адхілення"
+
+msgid "LB_DEV_BOARD_FINISH"
+msgstr "Завершанае"
+
+msgid "LB_DEV_BOARD_NEW"
+msgstr "Новае"
+
+msgid "LB_DEV_PROPOSITION_TEXT"
+msgstr "Перш чым стварыць тэму, калі ласка, азнаёмцеся з ужо створанымі прапановамі. Перайшоўшы па спасылках ў табліцы ніжэй, можна даведацца, якія з прапаноў прапрацоўваюцца ў дадзены момант, а якія былі адхілены."
+
+msgid "LB_DEV_PROPOSITION_WORKFLOW"
+msgstr "Змены на сайце за апошні месяц у зрэзе заданняў"
+
+msgid "LB_ERROR"
+msgstr "Памылка"
+
+msgid "LB_ERROR_AUTH_LIMITATION"
+msgstr "Перавышана дапушчальная колькасць спробаў, доступ абмежаваны на некаторы час."
+
+msgid "LB_ERROR_BOOK_LIST"
+msgstr "Дадзеная кніга ўжо знаходзіцца ў спісе %s са статусам %s."
+
+msgid "LB_ERROR_BOOK_MISSING"
+msgstr "Кніг па дадзеным запыце ня знойдзена праз Amazon і Google API. Каб дадаць кнігу ў спіс, патрэбна стварыць яе агляд самастойна: зайдзіце ў «Асабісты кабінет» і пазначце «Агляд кнігі» з спісу, запоўніце рэкамендаваныя палі, захавайце і апублікуйце агляд у агульны доступ. Звяртаем увагу, што кніга з'явіцца ў пошуку толькі пасля праверкі апісання аўдытарам."
+
+msgid "LB_ERROR_COOKIE_OFF"
+msgstr "Захаванне стану немагчыма без актываваных cookie"
+
+msgid "LB_ERROR_DIFFERENT_PASSWORD"
+msgstr "Паролі не супадаюць"
+
+msgid "LB_ERROR_DUPLICATED_VOTE"
+msgstr "Вы ўжо выставілі сваю адзнаку, наступныя каментарыі магчымы без яе (Ацаніць: не ацэньваць)."
+
+msgid "LB_ERROR_EMAIL_EXIST"
+msgstr "Ужо існуе, скарыстайцеся аднаўленнем пароля."
+
+msgid "LB_ERROR_INCORECT_EMAIL"
+msgstr "Вы прызначылі недакладны email"
+
+msgid "LB_ERROR_INCORRECT_PASSWORD"
+msgstr "Пароль памылковы (або акаўнт)"
+
+msgid "LB_ERROR_INCORRECT_REQUEST"
+msgstr "Памылковы запыт"
+
+msgid "LB_ERROR_INTERNAL_ERROR"
+msgstr "Унутраная памылка сэрвісу! Абвясціце распрацоўшчыкаў праз службу падтрымкі."
+
+msgid "LB_ERROR_LEGTH_LIMITATION"
+msgstr "Перавышаны ліміт у %d знакаў для тэксту"
+
+msgid "LB_ERROR_MAIL_TO"
+msgstr "Памылка пры адпраўцы паведамлення"
+
+msgid "LB_ERROR_MANDATORY"
+msgstr "Абавязковы параметр `%s` адсутнічае."
+
+msgid "LB_ERROR_MANY_PARAMETERS"
+msgstr "Занадта шмат параметраў у запыце"
+
+msgid "LB_ERROR_MISSING_DATA"
+msgstr "Адсутнічаюць звесткі"
+
+msgid "LB_ERROR_MISSING_PASSWORD"
+msgstr "Адсутнiчае пароль"
+
+msgid "LB_ERROR_NOT_AUTHORIZED"
+msgstr "Патрэбна аўтарызацыя"
+
+msgid "LB_ERROR_NOT_READY"
+msgstr "Пераклад адсутнічае"
+
+msgid "LB_ERROR_OLD_BROWSER"
+msgstr "Ваш браўзэр безнадзейна састарэў. Абновіце яго..."
+
+msgid "LB_ERROR_ONLY_TEXT"
+msgstr "Дапусцім толькі тэкст без якіх-небудзь пераносаў радкі або тэгаў"
+
+msgid "LB_ERROR_PERSON_NOT_TRANSLATED"
+msgstr "Карыстальнік яшчэ не аформіў сваю пэрсанальную старонку, але яна можа быць прадстаўлена для іншых моў, калі ласка, праверце спіс ніжэй (калі ен прысутнічае)."
+
+msgid "LB_ERROR_PRIVILEGES_LIMITATION"
+msgstr "Патрабуюцца больш шырокія прывілеі (Вы не знаходзіцеся ў адпаведнай групе карыстальнікаў)"
+
+msgid "LB_ERROR_REQUIRED"
+msgstr "Нельга выдаліць абавязковы блок інфармацыі"
+
+msgid "LB_ERROR_RESPONSE_TYPE"
+msgstr "Старонка не падтрымлівае прадстаўленне даных з пазначаным пашырэннем"
+
+msgid "LB_ERROR_SIMPLE_PASSWORD"
+msgstr "Варта выкарыстоўваць больш складаныя паролі"
+
+msgid "LB_ERROR_TOKEN_MISMATCH"
+msgstr "Уведзены код не адпавядае адпраўленым"
+
+msgid "LB_ERROR_USERNAME_EXISTS"
+msgstr "Карыстальнік з такім імём ужо існуе"
+
+msgid "LB_ERROR_USERNAME_INVALID"
+msgstr "Дазваляюцца сімвалы адной раскладкі і знак падкрэслення. Памер імя не можа быць менш за 3 і не больш за 24 сімвалаў"
+
+msgid "LB_ERROR_USER_MISSING"
+msgstr "Пазначаны Вамі карыстальнік ня знойдзены, магчыма, ен быў заблякаваны або выдалены."
+
+msgid "LB_ERROR_USER_NOT_FOUND"
+msgstr "Карыстальнік ня знойдзены"
+
+msgid "LB_ERROR_VALIDATION"
+msgstr "Памылка пры валідацыі параметру `%s`: %s"
+
+msgid "LB_ERROR_VALUE_KEY"
+msgstr "Памылковы ключ"
+
+msgid "LB_ERROR_VALUE_LIST"
+msgstr "Адсутнічае ў дазволеным спісе"
+
+msgid "LB_ERROR_VALUE_MAX"
+msgstr "Перавышаны максімум %s значэння"
+
+msgid "LB_ERROR_VALUE_MAX_LENGTH"
+msgstr "Даўжыня не больш за %s знакаў"
+
+msgid "LB_ERROR_VALUE_MIN"
+msgstr "Ніжэй мінімальнага %s значэння"
+
+msgid "LB_ERROR_VALUE_MIN_LENGTH"
+msgstr "Даўжыня не менш за %s знакаў"
+
+msgid "LB_ERROR_VALUE_PATTERN"
+msgstr "Iнвалідацыя шаблону %s"
+
+msgid "LB_ERROR_VALUE_SANITIZE"
+msgstr "Iнвалідацыя параметру"
+
+msgid "LB_ERROR_VALUE_SCOPE"
+msgstr "Нестыкоўка дапушчальных значэнняў спісу"
+
+msgid "LB_ERROR_VALUE_TYPE"
+msgstr "Хібны тып дадзеных"
+
+msgid "LB_FORUM_"
+msgstr "Раздзел форуму"
+
+msgid "LB_FORUM_BUGS"
+msgstr "Памылкі"
+
+msgid "LB_FORUM_CONTENT"
+msgstr "Запоўніце змест тэмы..."
+
+msgid "LB_FORUM_CONTEST"
+msgstr "Конкурсы"
+
+msgid "LB_FORUM_CREATE"
+msgstr "Адправіць"
+
+msgid "LB_FORUM_CREATE_TOPIC"
+msgstr "Стварыць новую тэму"
+
+msgid "LB_FORUM_DESCRIPTION"
+msgstr "Апісанне тэмы..."
+
+msgid "LB_FORUM_HISTORY"
+msgstr "змены"
+
+msgid "LB_FORUM_HISTORY_TITLE"
+msgstr "Гісторыя змяненняў"
+
+msgid "LB_FORUM_KEYWORDS"
+msgstr "Ключавыя словы"
+
+msgid "LB_FORUM_LAST_COMMENT"
+msgstr "Апошні каментар"
+
+msgid "LB_FORUM_NEWS"
+msgstr "Навіны"
+
+msgid "LB_FORUM_OFFTOPIC"
+msgstr "Агульныя тэмы"
+
+msgid "LB_FORUM_PROPOSITION"
+msgstr "Прапановы"
+
+msgid "LB_FORUM_QUESTIONS"
+msgstr "Пытанні"
+
+msgid "LB_FORUM_TITLE"
+msgstr "Загаловак тэмы"
+
+msgid "LB_FORUM_TOPIC_MODIFIED_BY"
+msgstr "Праведзена праверка (або карэкціроўка) апісання, ключавых слоў і ўзроўню доступу..."
+
+msgid "LB_FROM"
+msgstr "ад"
+
+msgid "LB_GAME_LEVEL"
+msgstr "Складанасць"
+
+msgid "LB_GAME_LEVEL_DESC"
+msgstr "Якасны параметр, які адлюстроўвае наяўны ўзровень складанасці задання."
+
+msgid "LB_GAME_MISTAKES"
+msgstr "Дапушчана памылак"
+
+msgid "LB_GAME_RATING"
+msgstr "Патэнцыял"
+
+msgid "LB_GAME_RATING_DESC"
+msgstr "Характарызуе патэнцыйную магчымасць ускладнення (станоўчае значэнне) або спрашчэння (адмоўнае значэнне) задання. Значэнні, блізкія да нуля, характарызуюць выстаўленне аптымальнай персаніфікаванай складанасці задання."
+
+msgid "LB_GAME_TIME_FIN"
+msgstr "Фінішны час"
+
+msgid "LB_GAME_TIME_LEFT"
+msgstr "Засталося часу"
+
+msgid "LB_GAME_TIME_START"
+msgstr "Стартавы час"
+
+msgid "LB_GET_DETAILS"
+msgstr "Падрабязней"
+
+msgid "LB_HEADER_100"
+msgstr "Працяг"
+
+msgid "LB_HEADER_101"
+msgstr "Пераключэнне пратаколаў"
+
+msgid "LB_HEADER_200"
+msgstr "Добра"
+
+msgid "LB_HEADER_201"
+msgstr "Створана"
+
+msgid "LB_HEADER_202"
+msgstr "Прынята"
+
+msgid "LB_HEADER_203"
+msgstr "Інфармацыя не аўтарытэтна"
+
+msgid "LB_HEADER_204"
+msgstr "Адсутнiчае змест"
+
+msgid "LB_HEADER_205"
+msgstr "Аднавiць змест"
+
+msgid "LB_HEADER_206"
+msgstr "Частковае ўтрыманьне"
+
+msgid "LB_HEADER_300"
+msgstr "Мноства выбараў"
+
+msgid "LB_HEADER_301"
+msgstr "Перамешчана назаўжды"
+
+msgid "LB_HEADER_302"
+msgstr "Перамешчана часова"
+
+msgid "LB_HEADER_303"
+msgstr "Знойдзена"
+
+msgid "LB_HEADER_304"
+msgstr "Не змянялася"
+
+msgid "LB_HEADER_307"
+msgstr "Часовае перанакіраванне"
+
+msgid "LB_HEADER_400"
+msgstr "Памылковы запыт"
+
+msgid "LB_HEADER_401"
+msgstr "Не аўтарызаваны"
+
+msgid "LB_HEADER_402"
+msgstr "Патрэбна плата"
+
+msgid "LB_HEADER_403"
+msgstr "Забаронена"
+
+msgid "LB_HEADER_404"
+msgstr "Не знойдзена"
+
+msgid "LB_HEADER_405"
+msgstr "Метад не падтрымліваецца"
+
+msgid "LB_HEADER_406"
+msgstr "Непрымальна"
+
+msgid "LB_HEADER_409"
+msgstr "Канфлікт"
+
+msgid "LB_HEADER_410"
+msgstr "Выдалены"
+
+msgid "LB_HEADER_417"
+msgstr "Чаканні не апраўдаліся"
+
+msgid "LB_HEADER_419"
+msgstr "Скончыўся час сесіі"
+
+msgid "LB_HEADER_423"
+msgstr "Доступ абмежаваны"
+
+msgid "LB_HEADER_429"
+msgstr "Занадта запытаў"
+
+msgid "LB_HEADER_500"
+msgstr "Памылка"
+
+msgid "LB_HEADER_503"
+msgstr "Сэрвіс часова недаступны"
+
+msgid "LB_HISTORY_CHANGES"
+msgstr "змены"
+
+msgid "LB_HOUR4_BEFORE"
+msgstr "гадзіны таму"
+
+msgid "LB_HOURS_BEFORE"
+msgstr "гадзін таму"
+
+msgid "LB_HOUR_BEFORE"
+msgstr "гадзіну таму"
+
+msgid "LB_IMAGE_SIZE"
+msgstr "Выніковы памер"
+
+msgid "LB_IMAGE_SIZE_SEP"
+msgstr "х"
+
+msgid "LB_INFO_TERMS"
+msgstr "правілы парталу"
+
+msgid "LB_LANGUAGE_SELECTION"
+msgstr "Выбар мовы"
+
+msgid "LB_LANG_"
+msgstr "Выбар мовы"
+
+msgid "LB_LANG_BE"
+msgstr "Беларуская мова"
+
+msgid "LB_LANG_DE"
+msgstr "Нямецкая мова"
+
+msgid "LB_LANG_EN"
+msgstr "Англійская мова"
+
+msgid "LB_LANG_FR"
+msgstr "Французская мова"
+
+msgid "LB_LANG_RU"
+msgstr "Руская мова"
+
+msgid "LB_LANG_UA"
+msgstr "Украінская мова"
+
+msgid "LB_LANG_UK"
+msgstr "Украінская мова"
+
+msgid "LB_LATEX_AUTHOR"
+msgstr "Стварэнне спасылкі да аўтара"
+
+msgid "LB_LATEX_CENTER"
+msgstr "Цэнтраванне тэксту"
+
+msgid "LB_LATEX_MATH"
+msgstr "Актывацыя матэматычнага прэпрацэсару для візуалізацыі формул любой складанасці."
+
+msgid "LB_LATEX_PAGEREF"
+msgstr "Стварэньне спасылкі з загалоўкам на аснове адрасу старонкі"
+
+msgid "LB_LATEX_PAGEVIEW"
+msgstr "Адлюстраванне спасылкі ў выглядзе вобласці прадпрагляду (малюнак, назва, апісанне)"
+
+msgid "LB_LATEX_TABLE"
+msgstr "Прыклад стварэння і афармлення табліц"
+
+msgid "LB_LATEX_TABLE_COLSPAN"
+msgstr "Колькасць зорачак вызначае колькасць аб'яднанняў па гарызанталі"
+
+msgid "LB_LATEX_TABLE_ROWSPAN"
+msgstr "Колькасць зорачак вызначае колькасць аб'яднанняў па вертыкалі"
+
+msgid "LB_LATEX_TEXTBF"
+msgstr "Тоўсты"
+
+msgid "LB_LATEX_TEXTIT"
+msgstr "Курсіў"
+
+msgid "LB_LOGIN"
+msgstr "Уваход"
+
+msgid "LB_LOGOUT"
+msgstr "Выхад"
+
+msgid "LB_MAIL_FOLLOW_LINK"
+msgstr "перайдзіце па спасылцы"
+
+msgid "LB_MAIL_HELLO"
+msgstr "Дабрыдзень,"
+
+msgid "LB_MAIL_IGNORE"
+msgstr "Калі ласка, ігнаруйце гэты электронны ліст, калі атрымалі яго памылкова. Калі ў Вас есць якія-небудзь пытанні, звяртайцеся"
+
+msgid "LB_MAIL_REGARDS"
+msgstr "З павагай,Творчы партал «Terra Ad Caelum»"
+
+msgid "LB_MAIL_REGISTRY"
+msgstr "Рэгістрацыя на творчым партале «Terra Ad Caelum»"
+
+msgid "LB_MAIL_REQUEST"
+msgstr "Запыт быў выкананы"
+
+msgid "LB_MAIL_RESTORE"
+msgstr "Аднаўленне доступу да творчага парталу «Terra Ad Caelum»"
+
+msgid "LB_MAIL_RESTORE_CONTENT"
+msgstr "Для аднаўлення доступу, калі ласка, увядзіце праверачны код (пазначаны ў адпраўленай пошце) на старонцы сайта. Просьба ўлічыць, што код для аднаўлення акаўнта мае часовыя абмежаванні."
+
+msgid "LB_MAIL_SUPPORT"
+msgstr "Служба падтрымкі"
+
+msgid "LB_MIND"
+msgstr "Развіццё"
+
+msgid "LB_MIND_PRAXIS"
+msgstr "Нэйрапластыка мозгу"
+
+msgid "LB_MIND_TECHNIQUE"
+msgstr "Мнемоніка"
+
+msgid "LB_MIND_TEST"
+msgstr "Тэст разумовага развіцця"
+
+msgid "LB_MIND_TRAINER"
+msgstr "Трэнажор разумовага развіцця"
+
+msgid "LB_MISSING"
+msgstr "адсутнічае"
+
+msgid "LB_MONTH4_BEFORE"
+msgstr "месяца таму"
+
+msgid "LB_MONTHS_BEFORE"
+msgstr "месяцаў таму"
+
+msgid "LB_MONTH_01"
+msgstr "Студзень"
+
+msgid "LB_MONTH_01_SHORT"
+msgstr "Студз."
+
+msgid "LB_MONTH_02"
+msgstr "Люты"
+
+msgid "LB_MONTH_02_SHORT"
+msgstr "Люты"
+
+msgid "LB_MONTH_03"
+msgstr "Сакавік"
+
+msgid "LB_MONTH_03_SHORT"
+msgstr "Сак."
+
+msgid "LB_MONTH_04"
+msgstr "Красавік"
+
+msgid "LB_MONTH_04_SHORT"
+msgstr "Крас."
+
+msgid "LB_MONTH_05"
+msgstr "Май"
+
+msgid "LB_MONTH_05_SHORT"
+msgstr "Май"
+
+msgid "LB_MONTH_06"
+msgstr "Чэрвень"
+
+msgid "LB_MONTH_06_SHORT"
+msgstr "Чэрв."
+
+msgid "LB_MONTH_07"
+msgstr "Ліпень"
+
+msgid "LB_MONTH_07_SHORT"
+msgstr "Ліп."
+
+msgid "LB_MONTH_08"
+msgstr "Жнівень"
+
+msgid "LB_MONTH_08_SHORT"
+msgstr "Жнів."
+
+msgid "LB_MONTH_09"
+msgstr "Верасень"
+
+msgid "LB_MONTH_09_SHORT"
+msgstr "Вер."
+
+msgid "LB_MONTH_10"
+msgstr "Кастрычнік"
+
+msgid "LB_MONTH_10_SHORT"
+msgstr "Кастр."
+
+msgid "LB_MONTH_11"
+msgstr "Лістапад"
+
+msgid "LB_MONTH_11_SHORT"
+msgstr "Ліст."
+
+msgid "LB_MONTH_12"
+msgstr "Снежань"
+
+msgid "LB_MONTH_12_SHORT"
+msgstr "Снеж."
+
+msgid "LB_MONTH_BEFORE"
+msgstr "месяц таму"
+
+msgid "LB_NO"
+msgstr "не"
+
+msgid "LB_OEUVRE"
+msgstr "Творчасць"
+
+msgid "LB_OEUVRE_"
+msgstr "Раздзел творчасці"
+
+msgid "LB_OEUVRE_ARTICLE"
+msgstr "Артыкул"
+
+msgid "LB_OEUVRE_ARTICLE_DESC"
+msgstr "Публікацыя артыкулаў і аглядаў творчай тэматыкі"
+
+msgid "LB_OEUVRE_BOOK"
+msgstr "Агляд кнігі"
+
+msgid "LB_OEUVRE_BOOK_DESC"
+msgstr "Апісанне кнігі для сэрвісу па адсочванню прачытаных і чытэльных кніг"
+
+msgid "LB_OEUVRE_BOOK_SERIES"
+msgstr "Цыкл кніг"
+
+msgid "LB_OEUVRE_BOOK_SERIES_DESC"
+msgstr "Стварэнне серыі узаемазвязаных кніг"
+
+msgid "LB_OEUVRE_DRAWING"
+msgstr "Графіка"
+
+msgid "LB_OEUVRE_DRAWING_DESC"
+msgstr "Публікацыя графічных работ з магчымасцю карэкціроўкі"
+
+msgid "LB_OEUVRE_MUSIC"
+msgstr "Музыка"
+
+msgid "LB_OEUVRE_MUSIC_DESC"
+msgstr "Сэрвіс для стварэння нотных альбо акордных твораў"
+
+msgid "LB_OEUVRE_POETRY"
+msgstr "Паэзія"
+
+msgid "LB_OEUVRE_POETRY_DESC"
+msgstr "Паэтычны сэрвіс для публікацыі вершаў"
+
+msgid "LB_OEUVRE_PROSE"
+msgstr "Проза"
+
+msgid "LB_OEUVRE_PROSE_DESC"
+msgstr "Для публікацыі празаічных твораў адвольнага памеру"
+
+msgid "LB_OR"
+msgstr "ці"
+
+msgid "LB_ORDER_DATE"
+msgstr "па даце"
+
+msgid "LB_ORDER_RATING"
+msgstr "паводле рэйтынгу"
+
+msgid "LB_ORDER_VIEWS"
+msgstr "па праглядах"
+
+msgid "LB_ORIGINAL_PAGE"
+msgstr "Пераклад публікацыі"
+
+msgid "LB_OVERVIEW"
+msgstr "Агляд"
+
+msgid "LB_PAGE"
+msgstr "ст."
+
+msgid "LB_PAGE_CONTENT"
+msgstr "Змест старонкі"
+
+msgid "LB_PAGE_COUNT"
+msgstr "з"
+
+msgid "LB_PAGE_DESCRIPTION"
+msgstr "Апісанне"
+
+msgid "LB_PAGE_INFINITE_SCROLL"
+msgstr "На старонцы даступна функцыя бясконцай пракруткі і опцыя асінхроннай загрузкі для Вашай максімальнай зручнасці пры чытанні змесціва. Аўтаматычная дагрузка актывуецца пры пракрутцы ўніз."
+
+msgid "LB_PAGE_IS_MISSING"
+msgstr "Старонка была выдалена. Верагодней за ўсе, колькасць старонак твораў/артыкулаў зменшылася пасля апошняй праўкі."
+
+msgid "LB_PAGE_LAST"
+msgstr "апошняя"
+
+msgid "LB_PAGE_NEXT"
+msgstr "Наступная"
+
+msgid "LB_PAGE_OVERVIEW_LANGUAGES"
+msgstr "Іншыя прадстаўлення"
+
+msgid "LB_PAGE_PREVIOUS"
+msgstr "Папярэдняя"
+
+msgid "LB_PATTERN"
+msgstr "Шаблон"
+
+msgid "LB_PERSONAL"
+msgstr "Асабісты кабінет"
+
+msgid "LB_PERSON_ACCOUNTS"
+msgstr "Профілі"
+
+msgid "LB_PERSON_ACCOUNTS_INFO"
+msgstr "Падключэнне сацыяльных профіляў дазваляе не толькі палегчыць аўтарызацыю, але і наладзіць абвесткі па любому з жаданых падзей."
+
+msgid "LB_PERSON_ACCOUNTS_LIST"
+msgstr "Спіс падлучаных профіляў"
+
+msgid "LB_PERSON_ADD_BLOCK"
+msgstr "Дадаць новы блок інфармацыі"
+
+msgid "LB_PERSON_DESCRIPTION"
+msgstr "Апісанне"
+
+msgid "LB_PERSON_DRAFT"
+msgstr "Чарнавікі"
+
+msgid "LB_PERSON_GRID_SECTION"
+msgstr "Блок да падзелу інфармацыйнай паласы на часткі"
+
+msgid "LB_PERSON_IMAGE"
+msgstr "Блок з малюнкам"
+
+msgid "LB_PERSON_KEYWORDS"
+msgstr "Ключавыя словы"
+
+msgid "LB_PERSON_MODULE_SECTION"
+msgstr "Інфармацыйныя модулі статыстыкі"
+
+msgid "LB_PERSON_NAME"
+msgstr "П.І.Б."
+
+msgid "LB_PERSON_PAGE"
+msgstr "Персанальная старонка карыстальніка"
+
+msgid "LB_PERSON_PAGE_EDIT_MODE"
+msgstr "Пэрсанальныя звесткі (рэжым праўкі)"
+
+msgid "LB_PERSON_POSITION"
+msgstr "Пазыцыя элемента (можна перамясціць сюды любы блок)"
+
+msgid "LB_PERSON_PUBLICATIONS"
+msgstr "Публікацыі"
+
+msgid "LB_PERSON_SELECT_BLOCK"
+msgstr "Пазначце блок, які збіраецеся дадаць на старонку"
+
+msgid "LB_PERSON_SELECT_IMAGE"
+msgstr "Падбярыце сабе аватарку"
+
+msgid "LB_PERSON_STATISTICS"
+msgstr "Статыстыка"
+
+msgid "LB_PERSON_SUBMIT_PUBLIC"
+msgstr "Чакае публікацыі ў агульны доступ"
+
+msgid "LB_PERSON_SUBMIT_REJECTED"
+msgstr "Публікацыя апошніх змяненняў адхіленая па прычыне"
+
+msgid "LB_PERSON_TEXT"
+msgstr "Тэкставы блок"
+
+msgid "LB_PERSON_TITLE"
+msgstr "Загаловак старонкі"
+
+msgid "LB_PERSON_TO_VIEW"
+msgstr "Перайсці да прагляду"
+
+msgid "LB_PERSON_WAIT_AUDIT"
+msgstr "Вашы змены на персанальнай старонцы будуць правераны аўдытарам ў бліжэйшы час."
+
+msgid "LB_PERSON_WORK"
+msgstr "Спіс твораў"
+
+msgid "LB_PERSON_WORK_NEW"
+msgstr "Стварыць новае"
+
+msgid "LB_PERSON_WORK_PUBLISHED"
+msgstr "Спіс апублікаваных работ"
+
+msgid "LB_PRESENT_TYPE"
+msgstr "Прадстаўленне"
+
+msgid "LB_PUBLICATION_WAIT_AUDIT"
+msgstr "Ваша публікацыя будзе праверана аўдытарам ў бліжэйшы час."
+
+msgid "LB_QUOTE"
+msgstr "Цытаты"
+
+msgid "LB_RATING"
+msgstr "Патэнцыял"
+
+msgid "LB_RECITE_ADDED"
+msgstr "Паспяхова дададзеная новая нататка: %s"
+
+msgid "LB_REDIRECT_TO"
+msgstr "Перанакіраванне"
+
+msgid "LB_REPLY_DELETED"
+msgstr "Каментар ад %s быў выдалены пры мадэрацыі %s %s."
+
+msgid "LB_RETURN"
+msgstr "Вярнуцца"
+
+msgid "LB_ROLLOUT_BACK"
+msgstr "Адкаціць змены"
+
+msgid "LB_ROLLOUT_DEPRECATED_TESTS"
+msgstr "Тэсты не запускаліся пасля апошніх абнаўленняў"
+
+msgid "LB_ROLLOUT_FAILED_TESTS"
+msgstr "Далейшы рэліз адкладзены да выпраўлення вынікаў тэстаў."
+
+msgid "LB_ROLLOUT_TO"
+msgstr "Прымяніць змены"
+
+msgid "LB_SAMPLE_TEXT"
+msgstr "Прыклад тэксту"
+
+msgid "LB_SEARCH_BY_CONTENT"
+msgstr "Па змесце"
+
+msgid "LB_SEARCH_BY_LABEL"
+msgstr "Па пазнаках"
+
+msgid "LB_SEARCH_RECITE_MINE"
+msgstr "Абмежаваць пошук ўласнымі нататкамі (шукаць толькі сярод іх)"
+
+msgid "LB_SEARCH_TYPE"
+msgstr "Катэгорыя"
+
+msgid "LB_SECOND4_BEFORE"
+msgstr "секунды таму"
+
+msgid "LB_SECONDS_BEFORE"
+msgstr "секунд таму"
+
+msgid "LB_SECOND_BEFORE"
+msgstr "імгненне таму"
+
+msgid "LB_SET_MARK"
+msgstr "Ацаніць"
+
+msgid "LB_SITE_ABOUT"
+msgstr "Крыху пра нас"
+
+msgid "LB_SITE_ACCESS"
+msgstr "Прывілеі гуртоў"
+
+msgid "LB_SITE_BACK"
+msgstr "Назад"
+
+msgid "LB_SITE_BOARD"
+msgstr "Дошка"
+
+msgid "LB_SITE_BOARD_LIST"
+msgstr "Спіс цяперашнiх падзадач"
+
+msgid "LB_SITE_BOARD_TASK"
+msgstr "Спіс задач"
+
+msgid "LB_SITE_DECOR"
+msgstr "Тэкставы прэпрацэсар"
+
+msgid "LB_SITE_DECOR_FORUM"
+msgstr "Афармленне паведамленняў форуму"
+
+msgid "LB_SITE_GROUP"
+msgstr "Прывілеі"
+
+msgid "LB_SITE_GROUP_DESCRIPTION"
+msgstr "Кіраванне правамі карыстальнікаў: даданне ў групу, выдаленне з групы, блакаванне карыстальніка."
+
+msgid "LB_SITE_INFO"
+msgstr "Агульныя зьвесткі партала"
+
+msgid "LB_SITE_INFO_AUTHORS"
+msgstr "Інфармацыя для аўтараў"
+
+msgid "LB_SITE_INFO_PARTNERS"
+msgstr "Інфармацыя для партнёраў"
+
+msgid "LB_SITE_LICENSE"
+msgstr "Ліцэнзійнае пагадненне"
+
+msgid "LB_SITE_PRIVACY_POLICY"
+msgstr "Палітыка прыватнасці"
+
+msgid "LB_SITE_RETURN2MAIN"
+msgstr "Вярнуцца на галоўную"
+
+msgid "LB_SITE_ROLLOUT"
+msgstr "Рэліз-цэнтр"
+
+msgid "LB_SITE_ROLLOUT_NEW"
+msgstr "Стварыць новы рэліз"
+
+msgid "LB_SITE_SEARCH"
+msgstr "Вынік пошуку"
+
+msgid "LB_SITE_SUPPORT"
+msgstr "Форум / Служба падтрымкі"
+
+msgid "LB_SITE_TASKS"
+msgstr "Заданні"
+
+msgid "LB_SITE_TERMS"
+msgstr "Умовы выкарыстаньня сайта"
+
+msgid "LB_SITE_TITLE"
+msgstr "Творчы партал «Terra Ad Caelum»"
+
+msgid "LB_SITE_UPDATES"
+msgstr "Апошнія аднаўлення"
+
+msgid "LB_SKIP_MODIFICATION"
+msgstr "Бясшумная карэкціроўка (дата не аднаўляецца, каментар не дадаецца)"
+
+msgid "LB_SORTING_TYPE"
+msgstr "Сартаванне"
+
+msgid "LB_SORT_BOOK_AUHOR"
+msgstr "Па аўтару"
+
+msgid "LB_SORT_BOOK_DATE"
+msgstr "Па даце выхаду"
+
+msgid "LB_SORT_BOOK_NEW"
+msgstr "Па навізне агляду"
+
+msgid "LB_SORT_BOOK_TITLE"
+msgstr "Па назве"
+
+msgid "LB_SORT_NEW"
+msgstr "Па навізне"
+
+msgid "LB_SORT_RATING"
+msgstr "Паводле рэйтынгу"
+
+msgid "LB_SORT_VIEW"
+msgstr "Па праглядах"
+
+msgid "LB_SPLIT_PLAIN"
+msgstr "Радкі"
+
+msgid "LB_SPLIT_TILE"
+msgstr "Плітка"
+
+msgid "LB_STAT_BOOK"
+msgstr "Чытанне"
+
+msgid "LB_STAT_BOOK_CHANGE_DATE"
+msgstr "Змяніць дату завяршэння чытання кнігі"
+
+msgid "LB_STAT_BOOK_DATE"
+msgstr "Дата чытання"
+
+msgid "LB_STAT_BOOK_MARK"
+msgstr "Ацэнка"
+
+msgid "LB_STAT_BOOK_TITLE"
+msgstr "Назва кнігі"
+
+msgid "LB_STAT_MIND"
+msgstr "Развіцце"
+
+msgid "LB_STAT_PAGES"
+msgstr "Колькасць прачытаных старонак"
+
+msgid "LB_STAT_PUBLICATION"
+msgstr "Прызнанне"
+
+msgid "LB_STAT_SPEED"
+msgstr "%s старонак/дзень"
+
+msgid "LB_STYLE_ACCENT"
+msgstr "Паставіць націск"
+
+msgid "LB_STYLE_CLEAR"
+msgstr "Выдаліць стылі для вылучанага фрагмента"
+
+msgid "LB_STYLE_COVER"
+msgstr "Обцяканьне"
+
+msgid "LB_STYLE_COV_CLEAR"
+msgstr "Выключана"
+
+msgid "LB_STYLE_COV_TEXT"
+msgstr "Поўнае"
+
+msgid "LB_STYLE_CROSSED"
+msgstr "Закрэсліць"
+
+msgid "LB_STYLE_PAGE_MRG"
+msgstr "Аб'яднаць змесціва старонак (цяперашняй і наступнай)"
+
+msgid "LB_STYLE_PAGE_NEW"
+msgstr "Перанесці выдзелены фрагмэнт на новую старонку"
+
+msgid "LB_STYLE_POSITION"
+msgstr "Пазіцыя"
+
+msgid "LB_STYLE_POS_CENTER"
+msgstr "У цэнтры"
+
+msgid "LB_STYLE_POS_LEFT"
+msgstr "Злева"
+
+msgid "LB_STYLE_POS_RIGHT"
+msgstr "Справа"
+
+msgid "LB_STYLE_SOURCE"
+msgstr "&lang;/&rang;"
+
+msgid "LB_STYLE_SPECIAL"
+msgstr "Спец. сімвалы"
+
+msgid "LB_STYLE_SUB"
+msgstr "Тэкст у ніжнім індэксе"
+
+msgid "LB_STYLE_SUP"
+msgstr "Тэкст у верхнім індэксе"
+
+msgid "LB_STYLE_UNDERLINE"
+msgstr "Падкрэсліць"
+
+msgid "LB_TARGET"
+msgstr "Мэтавы інтэрфейс:"
+
+msgid "LB_TASKS_TRANSLATION_MISSING"
+msgstr "Паказаць толькі адсутнасць перакладаў"
+
+msgid "LB_TASK_AUDITOR_RULES"
+msgstr "Кантэнт, які будзе узяты Вамі на праверку, павінен быць дасканала прачытаны, правераны; і вынесена рашэнне аб яго публікацыі або забароне (на дапрацоўку). Ваша рашэнне з'яўляецца гарантам якасці праверанай інфармацыі. Пры выяве нядобрасумленнай адносіны да сваіх абавязкаў, статус аўдытара здымаецца, а ўсе заробленыя илектры анулююцца як штраф за падарваны давер."
+
+msgid "LB_TASK_AUTO_NEW"
+msgstr "Аўтаматычна браць наступнае заданне"
+
+msgid "LB_TASK_IS_MISSING"
+msgstr "Шуканае заданне больш недаступна"
+
+msgid "LB_TASK_MODER_COMMENTS"
+msgstr "Каментары на форуме"
+
+msgid "LB_TASK_MODER_COMMENTS_DESC"
+msgstr "Праверка каментароў форуму"
+
+msgid "LB_TASK_MODER_QUOTE"
+msgstr "Мадэраванне цытат"
+
+msgid "LB_TASK_MODER_QUOTE_DESC"
+msgstr "Праверка цытат з кніг"
+
+msgid "LB_TASK_MODER_REPLY"
+msgstr "Каментары на сайце"
+
+msgid "LB_TASK_MODER_REPLY_DESC"
+msgstr "Праверка каментароў на сайце"
+
+msgid "LB_TASK_MODER_TOPICS"
+msgstr "Форумныя тэмы"
+
+msgid "LB_TASK_MODER_TOPICS_DESC"
+msgstr "Мадэраванне новых тэм на форуме"
+
+msgid "LB_TASK_MODER_TOPICS_RULES"
+msgstr "Пры актывацыі мадэравання тэмы варта абавязкова скончыць працэс (не пакідаючы старонку). У першую чаргу гэта звязана з прызначэннем Вас адказным за ўтрыманне. Пасля праверкі тэмы, апісання і ключавых слоў; Вас перакіне ў саму тэму для дадатковай праверкі каментароў у ей."
+
+msgid "LB_TASK_NAVIGATION"
+msgstr "[!] Абнавіць навігацыю"
+
+msgid "LB_TASK_NOT_YOURS"
+msgstr "Гэта заданне іншага перакладчыка"
+
+msgid "LB_TASK_TRANSLATION_BOOK"
+msgstr "Агляды кніг"
+
+msgid "LB_TASK_TRANSLATION_BOOK_DESC"
+msgstr "Карэкціроўка агляду кнігі пасля аўтаматычнага дадання."
+
+msgid "LB_TASK_TRANSLATION_INTERFACE"
+msgstr "Пераклад інтэрфейсу"
+
+msgid "LB_TASK_TRANSLATION_INTERFACE_DESC"
+msgstr "Ключавы вузел прыкладання для адлюстравання адпаведных перакладаў элемэнтаў інтэрфейсу"
+
+msgid "LB_TASK_TRANSLATION_TEXT"
+msgstr "Тэкставае афармленне старонак"
+
+msgid "LB_TASK_TRANSLATION_TEXT_ATTENTION"
+msgstr "Звярніце ўвагу, што націскаючы <q>Прымяніць змены</q>, Вы адразу перадаеце зменены тэкст да разгляду аўдытара. Для падобных заданняў адсутнічае опцыя прамежкавага захавання."
+
+msgid "LB_TASK_TRANSLATION_TEXT_DESC"
+msgstr "Загалоўкі, апісанне, ключавыя словы для базавых старонак сайта"
+
+msgid "LB_TASK_TRANSLATION_TEXT_RULES"
+msgstr "Працягнуўшы, Вы пацвярджаеце, што абавязваецеся завяршыць заданне ў самы кароткі час. Пераклад старонак з'яўляюцца найбольш прыярытэтнымі заданнямі, пакуль адлюстроўваюць агульны імідж парталу. Поўны цыкл ад з'яўлення <q>сбойнай старонкі</q> да яе зацвярджэння аўдытарам не павінен перавышаць некалькіх гадзін. Аплата гэтага малога задання (да 1000 знакаў) роўны %d ілектрам. Пасля пацверджання Вам будзе выдадзена выпадковае заданне для гэтай мовы. Спатрэбіцца <q>прыдумаць</q> назву старонкі, яе кароткае апісанне і ключавыя словы."
+
+msgid "LB_TASK_WAIT_APPROVEMENT"
+msgstr "Заданне чакае пацверджання аўдытара"
+
+msgid "LB_TITLE"
+msgstr "Загаловак"
+
+msgid "LB_TODO_DO"
+msgstr "На абмеркаванні"
+
+msgid "LB_TODO_IN"
+msgstr "У распрацоўцы"
+
+msgid "LB_TODO_NO"
+msgstr "Адхілена"
+
+msgid "LB_TODO_OK"
+msgstr "Выканана"
+
+msgid "LB_TODO_WORK_ON"
+msgstr "цяпер працуе над"
+
+msgid "LB_TOPIC_DELETED"
+msgstr "Тэма ад %s была выдалена пры мадэрацыі %s %s."
+
+msgid "LB_TOPIC_FIXED"
+msgstr "Замацавана"
+
+msgid "LB_TRANSLATION_HELP"
+msgstr "Дапамагчы з перакладам"
+
+msgid "LB_USER_ACCESS_AUDIT"
+msgstr "Доступ аўдытарам"
+
+msgid "LB_USER_ACCESS_BLOCK"
+msgstr "У доступе адмоўлена"
+
+msgid "LB_USER_ACCESS_COMMENT"
+msgstr "Доступ да камэнтавання"
+
+msgid "LB_USER_ACCESS_DELETE"
+msgstr "Доступ на выдалення"
+
+msgid "LB_USER_ACCESS_EDIT"
+msgstr "Доступ для праўкі"
+
+msgid "LB_USER_ACCESS_MARK"
+msgstr "Доступ для адзнак"
+
+msgid "LB_USER_ACCESS_MODERATE"
+msgstr "Доступ мадэратарам"
+
+msgid "LB_USER_ACCESS_OWNER"
+msgstr "Толькі аўтару і адміністрацыі"
+
+msgid "LB_USER_ACCESS_READ"
+msgstr "Доступ для чытання"
+
+msgid "LB_USER_ACCESS_TRANSLATE"
+msgstr "Доступ для перакладу"
+
+msgid "LB_VIEWS"
+msgstr "Колькасць праглядаў"
+
+msgid "LB_VIEW_PAGE"
+msgstr "Прагледзець старонку"
+
+msgid "LB_WEEK_01"
+msgstr "Нядзеля"
+
+msgid "LB_WEEK_02"
+msgstr "Панядзелак"
+
+msgid "LB_WEEK_03"
+msgstr "Аўторак"
+
+msgid "LB_WEEK_04"
+msgstr "Серада"
+
+msgid "LB_WEEK_05"
+msgstr "Чацвер"
+
+msgid "LB_WEEK_06"
+msgstr "Пятніца"
+
+msgid "LB_WEEK_07"
+msgstr "Субота"
+
+msgid "LB_YEAR4_BEFORE"
+msgstr "гады таму"
+
+msgid "LB_YEARS_BEFORE"
+msgstr "гадоў назад"
+
+msgid "LB_YEAR_BEFORE"
+msgstr "год таму"

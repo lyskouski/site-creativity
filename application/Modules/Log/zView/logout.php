@@ -1,0 +1,3 @@
+<article class="el_content">
+    ... logout ...
+</article>
