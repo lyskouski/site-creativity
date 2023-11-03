@@ -1,3 +1,3 @@
-# Creativity Portal "Terra Ad Caelumn"
+# Creativity Portal "Terra Ad Caelum"
 
 https://creativity.by
